@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/bellissa", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/belissa-blumenkastenhalter-grosz-zink-bellissa-8312076-1.jpg":"\u002Fassets\u002Fimages\u002Fbelissa-blumenkastenhalter-grosz-zink-bellissa-8312076-1.webp"}}],fetch:{},mutations:void 0});

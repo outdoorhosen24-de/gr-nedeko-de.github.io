@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/traumgarten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einsatz-fuer-sechseck-pflanzkasten-60-cm-x-53-cm-traumgarten-2382570-1.jpg":"\u002Fassets\u002Fimages\u002Feinsatz-fuer-sechseck-pflanzkasten-60-cm-x-53-cm-traumgarten-2382570-1.webp"}}],fetch:{},mutations:void 0});

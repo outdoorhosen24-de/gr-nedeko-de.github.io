@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/ecopots", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ecopots-pflanzschale-berlin-grau-41-cm-ecopots-9327750-1.jpg":"\u002Fassets\u002Fimages\u002Fecopots-pflanzschale-berlin-grau-41-cm-ecopots-9327750-1.webp"}}],fetch:{},mutations:void 0});

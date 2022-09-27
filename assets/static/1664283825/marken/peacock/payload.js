@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/peacock", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/peacock-stahlblech-rankstab-1200-mm-x-o-11-mm-peacock-3800760-1.jpg":"\u002Fassets\u002Fimages\u002Fpeacock-stahlblech-rankstab-1200-mm-x-o-11-mm-peacock-3800760-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/farmet-new", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/farmet-new-kunststoff-pflanzkuebel-orione-alto-o-40-cm-40-cm-hoch-grau-sandstein-farmet-new-3097599-1.jpg":"\u002Fassets\u002Fimages\u002Ffarmet-new-kunststoff-pflanzkuebel-orione-alto-o-40-cm-40-cm-hoch-grau-sandstein-farmet-new-3097599-1.webp"}}],fetch:{},mutations:void 0});

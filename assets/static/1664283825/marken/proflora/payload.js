@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/proflora", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/proflora-kokosschale-vogeltraenke-laengs-proflora-1097575-1.jpg":"\u002Fassets\u002Fimages\u002Fproflora-kokosschale-vogeltraenke-laengs-proflora-1097575-1.webp"}}],fetch:{},mutations:void 0});
