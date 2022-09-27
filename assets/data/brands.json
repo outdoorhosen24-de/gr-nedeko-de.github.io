@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,116 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "sunny garden",
+        "name": "Sunny Garden",
+        "slug": "sunny-garden",
+        "productCategory": "Sunny Garden",
+        "localThumb": "/assets/images/hersteller/sunny-garden.webp"
+    },
+    {
+        "key": "floragard",
+        "name": "Floragard",
+        "slug": "floragard",
+        "productCategory": "Floragard",
+        "localThumb": "/assets/images/hersteller/floragard.webp"
+    },
+    {
+        "key": "westland",
+        "name": "Westland",
+        "slug": "westland",
+        "productCategory": "Westland",
+        "localThumb": "/assets/images/hersteller/westland.webp"
+    },
+    {
+        "key": "ferrum art design",
+        "name": "Ferrum Art Design",
+        "slug": "ferrum-art-design",
+        "productCategory": "Ferrum Art Design",
+        "localThumb": "/assets/images/hersteller/ferrum-art-design.webp"
+    },
+    {
+        "key": "nature",
+        "name": "Nature",
+        "slug": "nature",
+        "productCategory": "Nature",
+        "localThumb": "/assets/images/hersteller/nature.webp"
+    },
+    {
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
+    },
+    {
+        "key": "deroma",
+        "name": "Deroma",
+        "slug": "deroma",
+        "productCategory": "Deroma",
+        "localThumb": "/assets/images/hersteller/deroma.webp"
+    },
+    {
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
+    },
+    {
+        "key": "capi",
+        "name": "Capi",
+        "slug": "capi",
+        "productCategory": "Capi",
+        "localThumb": "/assets/images/hersteller/capi.webp"
+    },
+    {
+        "key": "elho",
+        "name": "Elho",
+        "slug": "elho",
+        "productCategory": "Elho",
+        "localThumb": "/assets/images/hersteller/elho.webp"
+    },
+    {
+        "key": "xala",
+        "name": "Xala",
+        "slug": "xala",
+        "productCategory": "Xala",
+        "localThumb": "/assets/images/hersteller/xala.webp"
+    },
+    {
+        "key": "lechuza",
+        "name": "Lechuza",
+        "slug": "lechuza",
+        "productCategory": "Lechuza",
+        "localThumb": "/assets/images/hersteller/lechuza.webp"
+    },
+    {
+        "key": "florus",
+        "name": "Florus",
+        "slug": "florus",
+        "productCategory": "Florus",
+        "localThumb": "/assets/images/hersteller/florus.webp"
+    },
+    {
+        "key": "khw",
+        "name": "KHW",
+        "slug": "khw",
+        "productCategory": "KHW",
+        "localThumb": "/assets/images/hersteller/khw.webp"
+    },
+    {
+        "key": "scheurich",
+        "name": "Scheurich",
+        "slug": "scheurich",
+        "productCategory": "Scheurich",
+        "localThumb": "/assets/images/hersteller/scheurich.webp"
+    },
+    {
+        "key": "floraworld",
+        "name": "Floraworld",
+        "slug": "floraworld",
+        "productCategory": "Floraworld",
+        "localThumb": "/assets/images/hersteller/floraworld.webp"
     },
     {
         "key": "obi",
@@ -35,52 +126,136 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "poétic",
+        "name": "Poétic",
+        "slug": "poetic",
+        "productCategory": "Poétic",
+        "localThumb": "/assets/images/hersteller/poetic.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "m collections",
+        "name": "M Collections",
+        "slug": "m-collections",
+        "productCategory": "M Collections",
+        "localThumb": "/assets/images/hersteller/m-collections.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "ecopots",
+        "name": "Ecopots",
+        "slug": "ecopots",
+        "productCategory": "Ecopots",
+        "localThumb": "/assets/images/hersteller/ecopots.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "seramis",
+        "name": "Seramis",
+        "slug": "seramis",
+        "productCategory": "Seramis",
+        "localThumb": "/assets/images/hersteller/seramis.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "ecopot",
+        "name": "Ecopot",
+        "slug": "ecopot",
+        "productCategory": "Ecopot",
+        "localThumb": "/assets/images/hersteller/ecopot.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "artevasi",
+        "name": "Artevasi",
+        "slug": "artevasi",
+        "productCategory": "Artevasi",
+        "localThumb": "/assets/images/hersteller/artevasi.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "bellissa",
+        "name": "Bellissa",
+        "slug": "bellissa",
+        "productCategory": "Bellissa",
+        "localThumb": "/assets/images/hersteller/bellissa.webp"
+    },
+    {
+        "key": "andrewex",
+        "name": "Andrewex",
+        "slug": "andrewex",
+        "productCategory": "Andrewex",
+        "localThumb": "/assets/images/hersteller/andrewex.webp"
+    },
+    {
+        "key": "promadino",
+        "name": "Promadino",
+        "slug": "promadino",
+        "productCategory": "Promadino",
+        "localThumb": "/assets/images/hersteller/promadino.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "proflora",
+        "name": "Proflora",
+        "slug": "proflora",
+        "productCategory": "Proflora",
+        "localThumb": "/assets/images/hersteller/proflora.webp"
+    },
+    {
+        "key": "bolsius",
+        "name": "Bolsius",
+        "slug": "bolsius",
+        "productCategory": "Bolsius",
+        "localThumb": "/assets/images/hersteller/bolsius.webp"
+    },
+    {
+        "key": "gah alberts",
+        "name": "GAH Alberts",
+        "slug": "gah-alberts",
+        "productCategory": "GAH Alberts",
+        "localThumb": "/assets/images/hersteller/gah-alberts.webp"
+    },
+    {
+        "key": "traumgarten",
+        "name": "TraumGarten",
+        "slug": "traumgarten",
+        "productCategory": "TraumGarten",
+        "localThumb": "/assets/images/hersteller/traumgarten.webp"
+    },
+    {
+        "key": "spang",
+        "name": "Spang",
+        "slug": "spang",
+        "productCategory": "Spang",
+        "localThumb": "/assets/images/hersteller/spang.webp"
+    },
+    {
+        "key": "wilk",
+        "name": "Wilk",
+        "slug": "wilk",
+        "productCategory": "Wilk",
+        "localThumb": "/assets/images/hersteller/wilk.webp"
+    },
+    {
+        "key": "farmet new",
+        "name": "Farmet New",
+        "slug": "farmet-new",
+        "productCategory": "Farmet New",
+        "localThumb": "/assets/images/hersteller/farmet-new.webp"
+    },
+    {
+        "key": "gaspo",
+        "name": "GASPO",
+        "slug": "gaspo",
+        "productCategory": "GASPO",
+        "localThumb": "/assets/images/hersteller/gaspo.webp"
+    },
+    {
+        "key": "peacock",
+        "name": "Peacock",
+        "slug": "peacock",
+        "productCategory": "Peacock",
+        "localThumb": "/assets/images/hersteller/peacock.webp"
     }
 ]
