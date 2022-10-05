@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gr\u00fcnedeko.de",
+    "hostname": "https://www.gr\u00fcnedeko.de/",
+    "email": "gr\u00fcnedeko.desurrealnetworks.io",
+    "organization": "gr\u00fcnedeko.de",
+    "logoText": "Gr\u00fcnedeko.de",
+    "title": "Pflanzent\u00f6pfe & Gartendekoration",
+    "subline": "Der Online Shop f\u00fcr Pflanzent\u00f6pfe & Gartendekoration",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9854332",
+        "5974068",
+        "5585369",
+        "2693034",
+        "4096491",
+        "4560355"
+    ],
+    "winnerProducts": [
+        "3249935",
+        "4291605",
+        "8698961"
+    ],
+    "featuredCategories": [
+        "Pflanzt\u00f6pfe",
+        "Pflanzent\u00f6pfe innen",
+        "Zubeh\u00f6r f\u00fcr Pflanzt\u00f6pfe",
+        "Rankhilfen",
+        "Rankhilfen",
+        "Gartendekoration"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzent\u00f6pfe & Gartendekoration",
-        "featureText": "Your featured text goes here",
+        "featureText": "Pflanzent\u00f6pfe & Gartendekoration ist ein Gesch\u00e4ft, das sich auf Pflanzent\u00f6pfe und Gartendekoration spezialisiert hat. Wir bieten eine gro\u00dfe Auswahl an Pflanzent\u00f6pfen und Gartendekorationen zu erschwinglichen Preisen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Pflanzent\u00f6pfe & Gartendekoration",
+            "metaDescription": "Pflanzent\u00f6pfe & Gartendekoration - Alles f\u00fcr Ihren Garten! Pflanzent\u00f6pfe, Gartenfiguren, Gartenstecker und mehr.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Pflanzent\u00f6pfe & Gartendekoration",
+                    "text": "Pflanzent\u00f6pfe und Gartendekoration\n\nPflanzent\u00f6pfe und Gartendekoration sind ein wesentlicher Bestandteil jedes Gartens. Sie k\u00f6nnen Ihren Garten mit Pflanzent\u00f6pfen und Gartendekorationen gestalten und Ihren pers\u00f6nlichen Stil und Ihre Pers\u00f6nlichkeit ausdr\u00fccken.\n\nPflanzent\u00f6pfe und Gartendekorationen k\u00f6nnen aus vielen verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Stein, Metall oder Kunststoff. Sie k\u00f6nnen auch in verschiedenen Gr\u00f6\u00dfen, Formen und Farben erh\u00e4ltlich sein.\n\nPflanzent\u00f6pfe und Gartendekorationen k\u00f6nnen auch mit verschiedenen Motiven und Designs verziert sein. Sie k\u00f6nnen Ihren Garten mit Pflanzent\u00f6pfen und Gartendekorationen gestalten, die Ihren pers\u00f6nlichen Stil und Ihre Pers\u00f6nlichkeit widerspiegeln.\n\nPflanzent\u00f6pfe und Gartendekorationen sind eine gro\u00dfartige M\u00f6glichkeit, Ihren Garten zu versch\u00f6nern und Ihren pers\u00f6nlichen Stil und Ihre Pers\u00f6nlichkeit auszudr\u00fccken."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzent\u00f6pfe & Gartendekoration - Der Shop",
+            "metaDescription": "Pflanzent\u00f6pfe & Gartendekoration - Finde die perfekte Dekoration f\u00fcr Deinen Garten im Shop!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzent\u00f6pfe & Gartendekoration - Hersteller",
+            "metaDescription": "Pflanzent\u00f6pfe & Gartendekoration - Finde den passenden Topf f\u00fcr Deine Pflanzen und gestalte Deinen Garten ganz nach Deinem Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzent\u00f6pfe & Gartendekoration: $PRODUKT",
+        "defaultMetaDescription": "Pflanzent\u00f6pfe & Gartendekoration: $PRODUKT von $HERSTELLER - die beste $KATEGORIE f\u00fcr Ihren Garten!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzent\u00f6pfe & Gartendekoration: $KATEGORIE f\u00fcr Ihren Garten",
+        "defaultMetaDescription": "Pflanzent\u00f6pfe & Gartendekoration: Finde die perfekte $KATEGORIE f\u00fcr Dein Zuhause. Gro\u00dfe Auswahl an Gr\u00f6\u00dfen, Farben & Formen. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Pflanzent\u00f6pfe & Gartendekoration von $HERSTELLER - hochwertige T\u00f6pfe und Dekorationen f\u00fcr den Garten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
