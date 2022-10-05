@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/spang", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/pflanztopf-kugel-o-20-cm-caramel-spang-9334459-1.jpg":"\u002Fassets\u002Fimages\u002Fpflanztopf-kugel-o-20-cm-caramel-spang-9334459-1.webp"}}],fetch:{},mutations:void 0});

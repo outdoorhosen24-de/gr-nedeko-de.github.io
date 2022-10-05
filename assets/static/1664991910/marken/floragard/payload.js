@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/floragard", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/floragard-blaehton-tongranulat-1-x-5-l-floragard-1237163-1.jpg":"\u002Fassets\u002Fimages\u002Ffloragard-blaehton-tongranulat-1-x-5-l-floragard-1237163-1.webp"}}],fetch:{},mutations:void 0});
