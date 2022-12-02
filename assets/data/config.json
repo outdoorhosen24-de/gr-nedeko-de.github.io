@@ -51,12 +51,15 @@
             "title": "Pflanzentöpfe & Gartendekoration",
             "metaDescription": "Pflanzentöpfe & Gartendekoration - Alles für Ihren Garten! Pflanzentöpfe, Gartenfiguren, Gartenstecker und mehr.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Pflanzentöpfe & Gartendekoration",
-                    "text": "Pflanzentöpfe und Gartendekoration\n\nPflanzentöpfe und Gartendekoration sind ein wesentlicher Bestandteil jedes Gartens. Sie können Ihren Garten mit Pflanzentöpfen und Gartendekorationen gestalten und Ihren persönlichen Stil und Ihre Persönlichkeit ausdrücken.\n\nPflanzentöpfe und Gartendekorationen können aus vielen verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Stein, Metall oder Kunststoff. Sie können auch in verschiedenen Größen, Formen und Farben erhältlich sein.\n\nPflanzentöpfe und Gartendekorationen können auch mit verschiedenen Motiven und Designs verziert sein. Sie können Ihren Garten mit Pflanzentöpfen und Gartendekorationen gestalten, die Ihren persönlichen Stil und Ihre Persönlichkeit widerspiegeln.\n\nPflanzentöpfe und Gartendekorationen sind eine großartige Möglichkeit, Ihren Garten zu verschönern und Ihren persönlichen Stil und Ihre Persönlichkeit auszudrücken."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Pflanzentöpfe & Gartendekoration",
+                        "text": "Pflanzentöpfe und Gartendekoration\n\nPflanzentöpfe und Gartendekoration sind ein wesentlicher Bestandteil jedes Gartens. Sie können Ihren Garten mit Pflanzentöpfen und Gartendekorationen gestalten und Ihren persönlichen Stil und Ihre Persönlichkeit ausdrücken.\n\nPflanzentöpfe und Gartendekorationen können aus vielen verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Stein, Metall oder Kunststoff. Sie können auch in verschiedenen Größen, Formen und Farben erhältlich sein.\n\nPflanzentöpfe und Gartendekorationen können auch mit verschiedenen Motiven und Designs verziert sein. Sie können Ihren Garten mit Pflanzentöpfen und Gartendekorationen gestalten, die Ihren persönlichen Stil und Ihre Persönlichkeit widerspiegeln.\n\nPflanzentöpfe und Gartendekorationen sind eine großartige Möglichkeit, Ihren Garten zu verschönern und Ihren persönlichen Stil und Ihre Persönlichkeit auszudrücken."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Pflanzentöpfe & Gartendekoration - Der Shop",
