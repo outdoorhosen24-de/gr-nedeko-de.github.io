@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "grünedeko.de",
     "hostname": "https://www.grünedeko.de/",
     "email": "grünedeko.de@surrealnetworks.io",
     "organization": "grünedeko.de",
     "logoText": "Grünedeko.de",
     "title": "Pflanzentöpfe & Gartendekoration",
-    "subline": "Der Online Shop für Pflanzentöpfe & Gartendekoration",
+    "subline": "Alles für ein schöneres Zuhause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzentöpfe & Gartendekoration",
-        "featureText": "Pflanzentöpfe & Gartendekoration ist ein Geschäft, das sich auf Pflanzentöpfe und Gartendekoration spezialisiert hat. Wir bieten eine große Auswahl an Pflanzentöpfen und Gartendekorationen zu erschwinglichen Preisen.",
+        "featureText": "Herzlich Willkommen in unserem Online Shop! Bei uns finden Sie neben hochwertigen Pflanzentöpfen auch eine ganze Reihe unterschiedlicher Gartendekorationen und Zubehör: Dekofiguren, Vogeltränken, Rankhilfen, Blumenregale, Fackeln, Gießkannen und vieles mehr. Bei uns werden Sie garantiert fündig! Überzeugen Sie sich selbst und finden Sie jetzt die passenden Produkte für Ihr Zuhause! ",
         "index": {
             "title": "Pflanzentöpfe & Gartendekoration",
-            "metaDescription": "Pflanzentöpfe & Gartendekoration - Alles für Ihren Garten! Pflanzentöpfe, Gartenfiguren, Gartenstecker und mehr.",
+            "metaDescription": "Alles für die grüne Welt im eigenen Zuhause! Entdecken Sie eine riesige Auswahl an unterschiedlichen Produkten. Ganz einfach und bequem online bestellen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Pflanzentöpfe & Gartendekoration - Der Shop",
-            "metaDescription": "Pflanzentöpfe & Gartendekoration - Finde die perfekte Dekoration für Deinen Garten im Shop!",
+            "title": "Ihr Shop für Pflanzentöpfe & Gartendekoration",
+            "metaDescription": "Entdecken Sie eine umfangreiche Produktauswahl in unserem Online Shop! Unterschiedliche Pflanzentöpfe | Vogeltränken | Rankhilfen | Blumenregale uvm. ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Pflanzentöpfe & Gartendekoration - Hersteller",
-            "metaDescription": "Pflanzentöpfe & Gartendekoration - Finde den passenden Topf für Deine Pflanzen und gestalte Deinen Garten ganz nach Deinem Geschmack.",
+            "title": "Die besten Hersteller für Pflanzentöpfe & Gartendekoration ",
+            "metaDescription": "Bei uns die besten Hersteller für Pflanzentöpfe & Gartendekoration entdecken - Deroma • Elho • OBI • Siena Garden • Florus und viele weitere!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Pflanzentöpfe & Gartendekoration: $PRODUKT",
-        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration: $PRODUKT von $HERSTELLER - die beste $KATEGORIE für Ihren Garten!",
+        "defaultTitle": "$PRODUKT - [günstig shoppen]",
+        "defaultMetaDescription": "$PRODUKT vom top Anbieter $HERSTELLER. Das und viele weitere tolle Produkte in der Kategorie $KATEGORIE entdecken und den Garten verschönern!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Pflanzentöpfe & Gartendekoration: $KATEGORIE für Ihren Garten",
-        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration: Finde die perfekte $KATEGORIE für Dein Zuhause. Große Auswahl an Größen, Farben & Formen. Jetzt online bestellen!",
+        "defaultTitle": "$KATEGORIE: für Ihren Garten oder Balkon",
+        "defaultMetaDescription": "Finde die perfekte $KATEGORIE für Ihren Außenbereich. Große Auswahl an hochwertigen Produkten zu fairen Preisen. Jetzt online bestellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration von $HERSTELLER - hochwertige Töpfe und Dekorationen für den Garten.",
+        "defaultTitle": "Pflanzen und Deko von $HERSTELLER",
+        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration von renommierten Herstellern wie $HERSTELLER - Jetzt online bestellen und per Mausklick zu Ihnen nach Hause liefern lassen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
