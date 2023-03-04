@@ -2,7 +2,7 @@
     {
         "key": "vogeltränken",
         "name": "Vogeltränken",
-        "slug": "vogeltranken",
+        "slug": "vogeltraenken",
         "productCategory": "Vogeltränken",
         "subCategories": []
     },
@@ -23,21 +23,21 @@
     {
         "key": "zubehör für pflanztöpfe",
         "name": "Zubehör für Pflanztöpfe",
-        "slug": "zubehor-fur-pflanztopfe",
+        "slug": "zubehoer-fuer-pflanztoepfe",
         "productCategory": "Zubehör für Pflanztöpfe",
         "subCategories": []
     },
     {
         "key": "pflanztöpfe",
         "name": "Pflanztöpfe",
-        "slug": "pflanztopfe",
+        "slug": "pflanztoepfe",
         "productCategory": "Pflanztöpfe",
         "subCategories": []
     },
     {
         "key": "pflanzentöpfe außen",
         "name": "Pflanzentöpfe außen",
-        "slug": "pflanzentopfe-aussen",
+        "slug": "pflanzentoepfe-aussen",
         "productCategory": "Pflanzentöpfe außen",
         "subCategories": []
     },
@@ -51,7 +51,7 @@
     {
         "key": "pflanzentöpfe innen",
         "name": "Pflanzentöpfe innen",
-        "slug": "pflanzentopfe-innen",
+        "slug": "pflanzentoepfe-innen",
         "productCategory": "Pflanzentöpfe innen",
         "subCategories": []
     }
