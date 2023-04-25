@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "grünedeko.de",
-    "hostname": "https://www.grünedeko.de/",
-    "email": "grünedeko.de@surrealnetworks.io",
-    "organization": "grünedeko.de",
-    "logoText": "Grünedeko.de",
-    "title": "Pflanzentöpfe & Gartendekoration",
-    "subline": "Alles für ein schöneres Zuhause",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9854332",
-        "5974068",
-        "5585369",
-        "2693034",
-        "4096491",
-        "4560355"
-    ],
-    "winnerProducts": [
-        "3249935",
-        "4291605",
-        "8698961"
-    ],
-    "featuredCategories": [
-        "Pflanztöpfe",
-        "Pflanzentöpfe innen",
-        "Zubehör für Pflanztöpfe",
-        "Rankhilfen",
-        "Rankhilfen",
-        "Gartendekoration"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Pflanzentöpfe & Gartendekoration",
-        "featureText": "Herzlich Willkommen in unserem Online Shop! Bei uns finden Sie neben hochwertigen Pflanzentöpfen auch eine ganze Reihe unterschiedlicher Gartendekorationen und Zubehör: Dekofiguren, Vogeltränken, Rankhilfen, Blumenregale, Fackeln, Gießkannen und vieles mehr. Bei uns werden Sie garantiert fündig! Überzeugen Sie sich selbst und finden Sie jetzt die passenden Produkte für Ihr Zuhause! ",
-        "index": {
-            "title": "Pflanzentöpfe & Gartendekoration",
-            "metaDescription": "Alles für die grüne Welt im eigenen Zuhause! Entdecken Sie eine riesige Auswahl an unterschiedlichen Produkten. Ganz einfach und bequem online bestellen!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Herzlich Willkommen bei GrüneDeko - Ihrem Online-Shop für Pflanzentöpfe & Gartendekoration",
-                        "text": "Willkommen bei GrüneDeko, Ihrem Online-Shop für alles, was Sie für eine schöne und gepflegte Gartendekoration benötigen. Unsere Produktpalette umfasst hochwertige Pflanzentöpfe und Zubehör, Vogeltränken, Hydrokultur, Rankhilfen und Gartendekoration. Egal, ob Sie Ihre Pflanzen drinnen oder draußen präsentieren möchten, bei uns finden Sie garantiert das Richtige. Wir bieten Ihnen eine große Auswahl an Pflanzentöpfen in verschiedenen Größen, Farben und Materialien. Unsere Vogeltränken und Hydrokultur-Systeme sorgen für eine optimale Bewässerung Ihrer Pflanzen. Mit unseren Gartendekorationen können Sie Ihrem Garten das gewisse Extra verleihen. Stöbern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-                    },
-                    {
-                        "title": "Vogeltränken",
-                        "text": "<a href=\"/kategorie/vogeltraenken/\" title=\"Vogeltränken\">Vogeltränken</a> sind ein wichtiger Bestandteil eines jeden Gartens. Sie sorgen dafür, dass Vögel auch in trockenen Perioden ausreichend Wasser zur Verfügung haben. Bei uns im Online-Shop finden Sie eine große Auswahl an Vogeltränken in unterschiedlichen Größen, Formen und Materialien, um auch für Ihren Garten die passende Vogeltränke zu finden. Von klassisch bis modern, hier ist für jeden Geschmack etwas dabei."
-                    },
-                    {
-                        "title": "Hydrokultur",
-                        "text": "<a href=\"/kategorie/hydrokultur/\" title=\"Hydrokultur\">Hydrokultur</a> ist eine moderne und innovative Art der Pflanzenpflege. Dabei werden Pflanzen ohne Boden in einer Nährlösung gehalten, was nicht nur besonders platzsparend ist, sondern auch eine effiziente Bewässerung ermöglicht. Bei uns im Online-Shop finden Sie eine große Auswahl an Hydrokultur-Systemen für verschiedene Pflanzenarten, sowie passendes Zubehör wie Nährlösungen und Pflanzgefäße. Entdecken Sie die Vorteile der Hydrokultur für Ihre Pflanzen."
-                    },
-                    {
-                        "title": "Gartendekoration",
-                        "text": "Ein schön gestalteter Garten kann das Wohngefühl im Freien ungemein verbessern. Bei uns im Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/gartendekoration/\" title=\"Gartendekoration\">Gartendekoration</a>en, um Ihren Garten nach Ihren Wünschen zu gestalten. Ob Skulpturen, Lichterketten, Windräder oder Gartenfiguren, hier ist für jeden Geschmack etwas dabei. Entdecken Sie die Vielfalt an Gartendekorationen und bereichern Sie Ihren Garten um individuelle Akzente."
-                    },
-                    {
-                        "title": "Zubehör für Pflanztöpfe",
-                        "text": "Wer Pflanzen liebt, benötigt das passende <a href=\"/kategorie/zubehoer-fuer-pflanztoepfe/\" title=\"Zubehör für Pflanztöpfe\">Zubehör für Pflanztöpfe</a>. Bei grünedeko.de finden Sie eine große Auswahl an hochwertigem Zubehör, das dafür sorgt, dass Ihre Pflanzen gesund und robust wachsen. Vom Untersetzer bis hin zu Pflanzsäcken - bei uns finden Sie alles, was Sie für eine optimale Pflanzenpflege benötigen."
-                    },
-                    {
-                        "title": "Pflanztöpfe",
-                        "text": "Ein schöner Pflanztopf ist ein wichtiger Bestandteil der Gartendekoration. Bei grünedeko.de finden Sie eine große Auswahl an verschiedenen <a href=\"/kategorie/pflanztoepfe/\" title=\"Pflanztöpfe\">Pflanztöpfe</a>n, die nicht nur Ihren Pflanzen ein schönes Zuhause bieten, sondern auch Ihren Garten verschönern. Von klassischen Ton-Pflanztöpfen bis hin zu modernen Fiberglass-Töpfen - bei uns finden Sie garantiert den passenden Topf für Ihre Pflanzen."
-                    },
-                    {
-                        "title": "Pflanzentöpfe außen",
-                        "text": "Suchen Sie nach den perfekten Pflanzentöpfen für Ihren Außenbereich? Dann sind Sie bei grünedeko.de genau richtig. Wir bieten eine große Auswahl an robusten und langlebigen Pflanzentöpfen für den Außenbereich, die Ihren Pflanzen Schutz und Stabilität bieten. Entdecken Sie jetzt unsere Auswahl an hochwertigen Pflanzentöpfen für Ihren Garten, Terrasse oder Balkon."
-                    },
-                    {
-                        "title": "Rankhilfen",
-                        "text": "<a href=\"/kategorie/rankhilfen/\" title=\"Rankhilfen\">Rankhilfen</a> sind ein wichtiger Bestandteil der Gartendekoration. Sie ermöglichen es Ihnen, Ihre Pflanzen zu stützen und zu formen, während sie wachsen. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Rankhilfen für alle Arten von Pflanzen, einschließlich Kletterpflanzen und Sträuchern. Wählen Sie aus robusten und stabilen Rankhilfen aus Metall, Holz oder Kunststoff und finden Sie die perfekte Lösung für Ihren Garten. Mit unseren Rankhilfen können Sie Ihre Pflanzen auf kreative und stilvolle Weise präsentieren."
-                    },
-                    {
-                        "title": "Pflanzentöpfe innen",
-                        "text": "Pflanzentöpfe für den Innenbereich sind eine großartige Möglichkeit, Ihr Zuhause mit Pflanzen zu verschönern. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Pflanzentöpfen für innen, einschließlich modernen und zeitlosen Designs. Unsere Pflanzentöpfe sind aus hochwertigen Materialien hergestellt und bieten Ihren Pflanzen eine sichere und geschützte Umgebung. Stöbern Sie durch unsere Kollektion und finden Sie den perfekten Pflanzentopf für Ihr Zuhause. Mit unseren Pflanzentöpfen können Sie Ihren Raum mit Grün und Natur verschönern."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Ihr Shop für Pflanzentöpfe & Gartendekoration",
-            "metaDescription": "Entdecken Sie eine umfangreiche Produktauswahl in unserem Online Shop! Unterschiedliche Pflanzentöpfe | Vogeltränken | Rankhilfen | Blumenregale uvm. ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Die besten Hersteller für Pflanzentöpfe & Gartendekoration ",
-            "metaDescription": "Bei uns die besten Hersteller für Pflanzentöpfe & Gartendekoration entdecken - Deroma • Elho • OBI • Siena Garden • Florus und viele weitere!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - [günstig shoppen]",
-        "defaultMetaDescription": "$PRODUKT vom top Anbieter $HERSTELLER. Das und viele weitere tolle Produkte in der Kategorie $KATEGORIE entdecken und den Garten verschönern!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "gr\u00fcnedeko.de",
+  "hostname": "https://www.gr\u00fcnedeko.de/",
+  "email": "gr\u00fcnedeko.de@surrealnetworks.io",
+  "organization": "gr\u00fcnedeko.de",
+  "logoText": "Gr\u00fcnedeko.de",
+  "title": "Pflanzent\u00f6pfe & Gartendekoration",
+  "subline": "Alles f\u00fcr ein sch\u00f6neres Zuhause",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9854332",
+    "5974068",
+    "5585369",
+    "2693034",
+    "4096491",
+    "4560355"
+  ],
+  "winnerProducts": [
+    "3249935",
+    "4291605",
+    "8698961"
+  ],
+  "featuredCategories": [
+    "Pflanzt\u00f6pfe",
+    "Pflanzent\u00f6pfe innen",
+    "Zubeh\u00f6r f\u00fcr Pflanzt\u00f6pfe",
+    "Rankhilfen",
+    "Rankhilfen",
+    "Gartendekoration"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Pflanzent\u00f6pfe & Gartendekoration",
+    "featureText": "Herzlich Willkommen in unserem Online Shop! Bei uns finden Sie neben hochwertigen Pflanzent\u00f6pfen auch eine ganze Reihe unterschiedlicher Gartendekorationen und Zubeh\u00f6r: Dekofiguren, Vogeltr\u00e4nken, Rankhilfen, Blumenregale, Fackeln, Gie\u00dfkannen und vieles mehr. Bei uns werden Sie garantiert f\u00fcndig! \u00dcberzeugen Sie sich selbst und finden Sie jetzt die passenden Produkte f\u00fcr Ihr Zuhause! ",
+    "index": {
+      "title": "Pflanzent\u00f6pfe & Gartendekoration",
+      "metaDescription": "Alles f\u00fcr die gr\u00fcne Welt im eigenen Zuhause! Entdecken Sie eine riesige Auswahl an unterschiedlichen Produkten. Ganz einfach und bequem online bestellen!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Herzlich Willkommen bei Gr\u00fcneDeko - Ihrem Online-Shop f\u00fcr Pflanzent\u00f6pfe & Gartendekoration",
+            "text": "Willkommen bei Gr\u00fcneDeko, Ihrem Online-Shop f\u00fcr alles, was Sie f\u00fcr eine sch\u00f6ne und gepflegte Gartendekoration ben\u00f6tigen. Unsere Produktpalette umfasst hochwertige Pflanzent\u00f6pfe und Zubeh\u00f6r, Vogeltr\u00e4nken, Hydrokultur, Rankhilfen und Gartendekoration. Egal, ob Sie Ihre Pflanzen drinnen oder drau\u00dfen pr\u00e4sentieren m\u00f6chten, bei uns finden Sie garantiert das Richtige. Wir bieten Ihnen eine gro\u00dfe Auswahl an Pflanzent\u00f6pfen in verschiedenen Gr\u00f6\u00dfen, Farben und Materialien. Unsere Vogeltr\u00e4nken und Hydrokultur-Systeme sorgen f\u00fcr eine optimale Bew\u00e4sserung Ihrer Pflanzen. Mit unseren Gartendekorationen k\u00f6nnen Sie Ihrem Garten das gewisse Extra verleihen. St\u00f6bern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verf\u00fcgung."
+          },
+          {
+            "title": "Vogeltr\u00e4nken",
+            "text": "<a href=\"/kategorie/vogeltraenken/\" title=\"Vogeltr\u00e4nken\">Vogeltr\u00e4nken</a> sind ein wichtiger Bestandteil eines jeden Gartens. Sie sorgen daf\u00fcr, dass V\u00f6gel auch in trockenen Perioden ausreichend Wasser zur Verf\u00fcgung haben. Bei uns im Online-Shop finden Sie eine gro\u00dfe Auswahl an Vogeltr\u00e4nken in unterschiedlichen Gr\u00f6\u00dfen, Formen und Materialien, um auch f\u00fcr Ihren Garten die passende Vogeltr\u00e4nke zu finden. Von klassisch bis modern, hier ist f\u00fcr jeden Geschmack etwas dabei."
+          },
+          {
+            "title": "Hydrokultur",
+            "text": "<a href=\"/kategorie/hydrokultur/\" title=\"Hydrokultur\">Hydrokultur</a> ist eine moderne und innovative Art der Pflanzenpflege. Dabei werden Pflanzen ohne Boden in einer N\u00e4hrl\u00f6sung gehalten, was nicht nur besonders platzsparend ist, sondern auch eine effiziente Bew\u00e4sserung erm\u00f6glicht. Bei uns im Online-Shop finden Sie eine gro\u00dfe Auswahl an Hydrokultur-Systemen f\u00fcr verschiedene Pflanzenarten, sowie passendes Zubeh\u00f6r wie N\u00e4hrl\u00f6sungen und Pflanzgef\u00e4\u00dfe. Entdecken Sie die Vorteile der Hydrokultur f\u00fcr Ihre Pflanzen."
+          },
+          {
+            "title": "Gartendekoration",
+            "text": "Ein sch\u00f6n gestalteter Garten kann das Wohngef\u00fchl im Freien ungemein verbessern. Bei uns im Online-Shop finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/gartendekoration/\" title=\"Gartendekoration\">Gartendekoration</a>en, um Ihren Garten nach Ihren W\u00fcnschen zu gestalten. Ob Skulpturen, Lichterketten, Windr\u00e4der oder Gartenfiguren, hier ist f\u00fcr jeden Geschmack etwas dabei. Entdecken Sie die Vielfalt an Gartendekorationen und bereichern Sie Ihren Garten um individuelle Akzente."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Pflanzt\u00f6pfe",
+            "text": "Wer Pflanzen liebt, ben\u00f6tigt das passende <a href=\"/kategorie/zubehoer-fuer-pflanztoepfe/\" title=\"Zubeh\u00f6r f\u00fcr Pflanzt\u00f6pfe\">Zubeh\u00f6r f\u00fcr Pflanzt\u00f6pfe</a>. Bei gr\u00fcnedeko.de finden Sie eine gro\u00dfe Auswahl an hochwertigem Zubeh\u00f6r, das daf\u00fcr sorgt, dass Ihre Pflanzen gesund und robust wachsen. Vom Untersetzer bis hin zu Pflanzs\u00e4cken - bei uns finden Sie alles, was Sie f\u00fcr eine optimale Pflanzenpflege ben\u00f6tigen."
+          },
+          {
+            "title": "Pflanzt\u00f6pfe",
+            "text": "Ein sch\u00f6ner Pflanztopf ist ein wichtiger Bestandteil der Gartendekoration. Bei gr\u00fcnedeko.de finden Sie eine gro\u00dfe Auswahl an verschiedenen <a href=\"/kategorie/pflanztoepfe/\" title=\"Pflanzt\u00f6pfe\">Pflanzt\u00f6pfe</a>n, die nicht nur Ihren Pflanzen ein sch\u00f6nes Zuhause bieten, sondern auch Ihren Garten versch\u00f6nern. Von klassischen Ton-Pflanzt\u00f6pfen bis hin zu modernen Fiberglass-T\u00f6pfen - bei uns finden Sie garantiert den passenden Topf f\u00fcr Ihre Pflanzen."
+          },
+          {
+            "title": "Pflanzent\u00f6pfe au\u00dfen",
+            "text": "Suchen Sie nach den perfekten Pflanzent\u00f6pfen f\u00fcr Ihren Au\u00dfenbereich? Dann sind Sie bei gr\u00fcnedeko.de genau richtig. Wir bieten eine gro\u00dfe Auswahl an robusten und langlebigen Pflanzent\u00f6pfen f\u00fcr den Au\u00dfenbereich, die Ihren Pflanzen Schutz und Stabilit\u00e4t bieten. Entdecken Sie jetzt unsere Auswahl an hochwertigen Pflanzent\u00f6pfen f\u00fcr Ihren Garten, Terrasse oder Balkon."
+          },
+          {
+            "title": "Rankhilfen",
+            "text": "<a href=\"/kategorie/rankhilfen/\" title=\"Rankhilfen\">Rankhilfen</a> sind ein wichtiger Bestandteil der Gartendekoration. Sie erm\u00f6glichen es Ihnen, Ihre Pflanzen zu st\u00fctzen und zu formen, w\u00e4hrend sie wachsen. Hier bei gr\u00fcnedeko.de bieten wir Ihnen eine gro\u00dfe Auswahl an Rankhilfen f\u00fcr alle Arten von Pflanzen, einschlie\u00dflich Kletterpflanzen und Str\u00e4uchern. W\u00e4hlen Sie aus robusten und stabilen Rankhilfen aus Metall, Holz oder Kunststoff und finden Sie die perfekte L\u00f6sung f\u00fcr Ihren Garten. Mit unseren Rankhilfen k\u00f6nnen Sie Ihre Pflanzen auf kreative und stilvolle Weise pr\u00e4sentieren."
+          },
+          {
+            "title": "Pflanzent\u00f6pfe innen",
+            "text": "Pflanzent\u00f6pfe f\u00fcr den Innenbereich sind eine gro\u00dfartige M\u00f6glichkeit, Ihr Zuhause mit Pflanzen zu versch\u00f6nern. Hier bei gr\u00fcnedeko.de bieten wir Ihnen eine gro\u00dfe Auswahl an Pflanzent\u00f6pfen f\u00fcr innen, einschlie\u00dflich modernen und zeitlosen Designs. Unsere Pflanzent\u00f6pfe sind aus hochwertigen Materialien hergestellt und bieten Ihren Pflanzen eine sichere und gesch\u00fctzte Umgebung. St\u00f6bern Sie durch unsere Kollektion und finden Sie den perfekten Pflanzentopf f\u00fcr Ihr Zuhause. Mit unseren Pflanzent\u00f6pfen k\u00f6nnen Sie Ihren Raum mit Gr\u00fcn und Natur versch\u00f6nern."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE: für Ihren Garten oder Balkon",
-        "defaultMetaDescription": "Finde die perfekte $KATEGORIE für Ihren Außenbereich. Große Auswahl an hochwertigen Produkten zu fairen Preisen. Jetzt online bestellen!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Ihr Shop f\u00fcr Pflanzent\u00f6pfe & Gartendekoration",
+      "metaDescription": "Entdecken Sie eine umfangreiche Produktauswahl in unserem Online Shop! Unterschiedliche Pflanzent\u00f6pfe | Vogeltr\u00e4nken | Rankhilfen | Blumenregale uvm. ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Pflanzen und Deko von $HERSTELLER",
-        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration von renommierten Herstellern wie $HERSTELLER - Jetzt online bestellen und per Mausklick zu Ihnen nach Hause liefern lassen!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Pflanzentöpfe & Gartendekoration",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Pflanzentöpfe & Gartendekoration Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Pflanzentöpfe & Gartendekoration Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Die besten Hersteller f\u00fcr Pflanzent\u00f6pfe & Gartendekoration ",
+      "metaDescription": "Bei uns die besten Hersteller f\u00fcr Pflanzent\u00f6pfe & Gartendekoration entdecken - Deroma \u2022 Elho \u2022 OBI \u2022 Siena Garden \u2022 Florus und viele weitere!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - [g\u00fcnstig shoppen]",
+    "defaultMetaDescription": "$PRODUKT vom top Anbieter $HERSTELLER. Das und viele weitere tolle Produkte in der Kategorie $KATEGORIE entdecken und den Garten versch\u00f6nern!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE: f\u00fcr Ihren Garten oder Balkon",
+    "defaultMetaDescription": "Finde die perfekte $KATEGORIE f\u00fcr Ihren Au\u00dfenbereich. Gro\u00dfe Auswahl an hochwertigen Produkten zu fairen Preisen. Jetzt online bestellen!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Pflanzen und Deko von $HERSTELLER",
+    "defaultMetaDescription": "Pflanzent\u00f6pfe & Gartendekoration von renommierten Herstellern wie $HERSTELLER - Jetzt online bestellen und per Mausklick zu Ihnen nach Hause liefern lassen!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Pflanzent\u00f6pfe & Gartendekoration Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
