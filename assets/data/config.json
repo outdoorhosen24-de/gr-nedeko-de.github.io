@@ -1,320 +1,327 @@
 {
-  "configIsReady": true,
-  "domain": "grünedeko.de",
-  "hostname": "https://www.grünedeko.de/",
-  "email": "grünedeko.de@surrealnetworks.io",
-  "organization": "grünedeko.de",
-  "logoText": "Grünedeko.de",
-  "title": "Pflanzentöpfe & Gartendekoration",
-  "subline": "Alles für ein schöneres Zuhause",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "9854332",
-    "5974068",
-    "5585369",
-    "2693034",
-    "4096491",
-    "4560355"
-  ],
-  "winnerProducts": [
-    "3249935",
-    "4291605",
-    "8698961"
-  ],
-  "featuredCategories": [
-    "Pflanztöpfe",
-    "Pflanzentöpfe innen",
-    "Zubehör für Pflanztöpfe",
-    "Rankhilfen",
-    "Rankhilfen",
-    "Gartendekoration"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Pflanzentöpfe & Gartendekoration",
-    "featureText": "Herzlich Willkommen in unserem Online Shop! Bei uns finden Sie neben hochwertigen Pflanzentöpfen auch eine ganze Reihe unterschiedlicher Gartendekorationen und Zubehör: Dekofiguren, Vogeltränken, Rankhilfen, Blumenregale, Fackeln, Gießkannen und vieles mehr. Bei uns werden Sie garantiert fündig! Überzeugen Sie sich selbst und finden Sie jetzt die passenden Produkte für Ihr Zuhause! ",
-    "index": {
-      "title": "Pflanzentöpfe & Gartendekoration",
-      "metaDescription": "Alles für die grüne Welt im eigenen Zuhause! Entdecken Sie eine riesige Auswahl an unterschiedlichen Produkten. Ganz einfach und bequem online bestellen!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Herzlich Willkommen bei GrüneDeko - Ihrem Online-Shop für Pflanzentöpfe & Gartendekoration",
-            "text": "Willkommen bei GrüneDeko, Ihrem Online-Shop für alles, was Sie für eine schöne und gepflegte Gartendekoration benötigen. Unsere Produktpalette umfasst hochwertige Pflanzentöpfe und Zubehör, Vogeltränken, Hydrokultur, Rankhilfen und Gartendekoration. Egal, ob Sie Ihre Pflanzen drinnen oder draußen präsentieren möchten, bei uns finden Sie garantiert das Richtige. Wir bieten Ihnen eine große Auswahl an Pflanzentöpfen in verschiedenen Größen, Farben und Materialien. Unsere Vogeltränken und Hydrokultur-Systeme sorgen für eine optimale Bewässerung Ihrer Pflanzen. Mit unseren Gartendekorationen können Sie Ihrem Garten das gewisse Extra verleihen. Stöbern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
-          },
-          {
-            "title": "Vogeltränken",
-            "text": "<a href=\"/kategorie/vogeltraenken/\" title=\"Vogeltränken\">Vogeltränken</a> sind ein wichtiger Bestandteil eines jeden Gartens. Sie sorgen dafür, dass Vögel auch in trockenen Perioden ausreichend Wasser zur Verfügung haben. Bei uns im Online-Shop finden Sie eine große Auswahl an Vogeltränken in unterschiedlichen Größen, Formen und Materialien, um auch für Ihren Garten die passende Vogeltränke zu finden. Von klassisch bis modern, hier ist für jeden Geschmack etwas dabei."
-          },
-          {
-            "title": "Hydrokultur",
-            "text": "<a href=\"/kategorie/hydrokultur/\" title=\"Hydrokultur\">Hydrokultur</a> ist eine moderne und innovative Art der Pflanzenpflege. Dabei werden Pflanzen ohne Boden in einer Nährlösung gehalten, was nicht nur besonders platzsparend ist, sondern auch eine effiziente Bewässerung ermöglicht. Bei uns im Online-Shop finden Sie eine große Auswahl an Hydrokultur-Systemen für verschiedene Pflanzenarten, sowie passendes Zubehör wie Nährlösungen und Pflanzgefäße. Entdecken Sie die Vorteile der Hydrokultur für Ihre Pflanzen."
-          },
-          {
-            "title": "Gartendekoration",
-            "text": "Ein schön gestalteter Garten kann das Wohngefühl im Freien ungemein verbessern. Bei uns im Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/gartendekoration/\" title=\"Gartendekoration\">Gartendekoration</a>en, um Ihren Garten nach Ihren Wünschen zu gestalten. Ob Skulpturen, Lichterketten, Windräder oder Gartenfiguren, hier ist für jeden Geschmack etwas dabei. Entdecken Sie die Vielfalt an Gartendekorationen und bereichern Sie Ihren Garten um individuelle Akzente."
-          },
-          {
-            "title": "Zubehör für Pflanztöpfe",
-            "text": "Wer Pflanzen liebt, benötigt das passende <a href=\"/kategorie/zubehoer-fuer-pflanztoepfe/\" title=\"Zubehör für Pflanztöpfe\">Zubehör für Pflanztöpfe</a>. Bei grünedeko.de finden Sie eine große Auswahl an hochwertigem Zubehör, das dafür sorgt, dass Ihre Pflanzen gesund und robust wachsen. Vom Untersetzer bis hin zu Pflanzsäcken - bei uns finden Sie alles, was Sie für eine optimale Pflanzenpflege benötigen."
-          },
-          {
-            "title": "Pflanztöpfe",
-            "text": "Ein schöner Pflanztopf ist ein wichtiger Bestandteil der Gartendekoration. Bei grünedeko.de finden Sie eine große Auswahl an verschiedenen <a href=\"/kategorie/pflanztoepfe/\" title=\"Pflanztöpfe\">Pflanztöpfe</a>n, die nicht nur Ihren Pflanzen ein schönes Zuhause bieten, sondern auch Ihren Garten verschönern. Von klassischen Ton-Pflanztöpfen bis hin zu modernen Fiberglass-Töpfen - bei uns finden Sie garantiert den passenden Topf für Ihre Pflanzen."
-          },
-          {
-            "title": "Pflanzentöpfe außen",
-            "text": "Suchen Sie nach den perfekten Pflanzentöpfen für Ihren Außenbereich? Dann sind Sie bei grünedeko.de genau richtig. Wir bieten eine große Auswahl an robusten und langlebigen Pflanzentöpfen für den Außenbereich, die Ihren Pflanzen Schutz und Stabilität bieten. Entdecken Sie jetzt unsere Auswahl an hochwertigen Pflanzentöpfen für Ihren Garten, Terrasse oder Balkon."
-          },
-          {
-            "title": "Rankhilfen",
-            "text": "<a href=\"/kategorie/rankhilfen/\" title=\"Rankhilfen\">Rankhilfen</a> sind ein wichtiger Bestandteil der Gartendekoration. Sie ermöglichen es Ihnen, Ihre Pflanzen zu stützen und zu formen, während sie wachsen. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Rankhilfen für alle Arten von Pflanzen, einschließlich Kletterpflanzen und Sträuchern. Wählen Sie aus robusten und stabilen Rankhilfen aus Metall, Holz oder Kunststoff und finden Sie die perfekte Lösung für Ihren Garten. Mit unseren Rankhilfen können Sie Ihre Pflanzen auf kreative und stilvolle Weise präsentieren."
-          },
-          {
-            "title": "Pflanzentöpfe innen",
-            "text": "Pflanzentöpfe für den Innenbereich sind eine großartige Möglichkeit, Ihr Zuhause mit Pflanzen zu verschönern. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Pflanzentöpfen für innen, einschließlich modernen und zeitlosen Designs. Unsere Pflanzentöpfe sind aus hochwertigen Materialien hergestellt und bieten Ihren Pflanzen eine sichere und geschützte Umgebung. Stöbern Sie durch unsere Kollektion und finden Sie den perfekten Pflanzentopf für Ihr Zuhause. Mit unseren Pflanzentöpfen können Sie Ihren Raum mit Grün und Natur verschönern."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "grünedeko.de",
+    "hostname": "https://www.grünedeko.de/",
+    "email": "grünedeko.de@surrealnetworks.io",
+    "organization": "grünedeko.de",
+    "logoText": "Grünedeko.de",
+    "title": "Pflanzentöpfe & Gartendekoration",
+    "subline": "Alles für ein schöneres Zuhause",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "9854332",
+        "5974068",
+        "5585369",
+        "2693034",
+        "4096491",
+        "4560355"
+    ],
+    "winnerProducts": [
+        "3249935",
+        "4291605",
+        "8698961"
+    ],
+    "featuredCategories": [
+        "Pflanztöpfe",
+        "Pflanzentöpfe innen",
+        "Zubehör für Pflanztöpfe",
+        "Rankhilfen",
+        "Rankhilfen",
+        "Gartendekoration"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Pflanzentöpfe & Gartendekoration",
+        "featureText": "Herzlich Willkommen in unserem Online Shop! Bei uns finden Sie neben hochwertigen Pflanzentöpfen auch eine ganze Reihe unterschiedlicher Gartendekorationen und Zubehör: Dekofiguren, Vogeltränken, Rankhilfen, Blumenregale, Fackeln, Gießkannen und vieles mehr. Bei uns werden Sie garantiert fündig! Überzeugen Sie sich selbst und finden Sie jetzt die passenden Produkte für Ihr Zuhause! ",
+        "index": {
+            "title": "Pflanzentöpfe & Gartendekoration",
+            "metaDescription": "Alles für die grüne Welt im eigenen Zuhause! Entdecken Sie eine riesige Auswahl an unterschiedlichen Produkten. Ganz einfach und bequem online bestellen!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Herzlich Willkommen bei GrüneDeko - Ihrem Online-Shop für Pflanzentöpfe & Gartendekoration",
+                        "text": "Willkommen bei GrüneDeko, Ihrem Online-Shop für alles, was Sie für eine schöne und gepflegte Gartendekoration benötigen. Unsere Produktpalette umfasst hochwertige Pflanzentöpfe und Zubehör, Vogeltränken, Hydrokultur, Rankhilfen und Gartendekoration. Egal, ob Sie Ihre Pflanzen drinnen oder draußen präsentieren möchten, bei uns finden Sie garantiert das Richtige. Wir bieten Ihnen eine große Auswahl an Pflanzentöpfen in verschiedenen Größen, Farben und Materialien. Unsere Vogeltränken und Hydrokultur-Systeme sorgen für eine optimale Bewässerung Ihrer Pflanzen. Mit unseren Gartendekorationen können Sie Ihrem Garten das gewisse Extra verleihen. Stöbern Sie durch unser Sortiment und lassen Sie sich von unseren Produkten inspirieren. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+                    },
+                    {
+                        "title": "Vogeltränken",
+                        "text": "<a href=\"/kategorie/vogeltraenken/\" title=\"Vogeltränken\">Vogeltränken</a> sind ein wichtiger Bestandteil eines jeden Gartens. Sie sorgen dafür, dass Vögel auch in trockenen Perioden ausreichend Wasser zur Verfügung haben. Bei uns im Online-Shop finden Sie eine große Auswahl an Vogeltränken in unterschiedlichen Größen, Formen und Materialien, um auch für Ihren Garten die passende Vogeltränke zu finden. Von klassisch bis modern, hier ist für jeden Geschmack etwas dabei."
+                    },
+                    {
+                        "title": "Hydrokultur",
+                        "text": "<a href=\"/kategorie/hydrokultur/\" title=\"Hydrokultur\">Hydrokultur</a> ist eine moderne und innovative Art der Pflanzenpflege. Dabei werden Pflanzen ohne Boden in einer Nährlösung gehalten, was nicht nur besonders platzsparend ist, sondern auch eine effiziente Bewässerung ermöglicht. Bei uns im Online-Shop finden Sie eine große Auswahl an Hydrokultur-Systemen für verschiedene Pflanzenarten, sowie passendes Zubehör wie Nährlösungen und Pflanzgefäße. Entdecken Sie die Vorteile der Hydrokultur für Ihre Pflanzen."
+                    },
+                    {
+                        "title": "Gartendekoration",
+                        "text": "Ein schön gestalteter Garten kann das Wohngefühl im Freien ungemein verbessern. Bei uns im Online-Shop finden Sie eine große Auswahl an <a href=\"/kategorie/gartendekoration/\" title=\"Gartendekoration\">Gartendekoration</a>en, um Ihren Garten nach Ihren Wünschen zu gestalten. Ob Skulpturen, Lichterketten, Windräder oder Gartenfiguren, hier ist für jeden Geschmack etwas dabei. Entdecken Sie die Vielfalt an Gartendekorationen und bereichern Sie Ihren Garten um individuelle Akzente."
+                    },
+                    {
+                        "title": "Zubehör für Pflanztöpfe",
+                        "text": "Wer Pflanzen liebt, benötigt das passende <a href=\"/kategorie/zubehoer-fuer-pflanztoepfe/\" title=\"Zubehör für Pflanztöpfe\">Zubehör für Pflanztöpfe</a>. Bei grünedeko.de finden Sie eine große Auswahl an hochwertigem Zubehör, das dafür sorgt, dass Ihre Pflanzen gesund und robust wachsen. Vom Untersetzer bis hin zu Pflanzsäcken - bei uns finden Sie alles, was Sie für eine optimale Pflanzenpflege benötigen."
+                    },
+                    {
+                        "title": "Pflanztöpfe",
+                        "text": "Ein schöner Pflanztopf ist ein wichtiger Bestandteil der Gartendekoration. Bei grünedeko.de finden Sie eine große Auswahl an verschiedenen <a href=\"/kategorie/pflanztoepfe/\" title=\"Pflanztöpfe\">Pflanztöpfe</a>n, die nicht nur Ihren Pflanzen ein schönes Zuhause bieten, sondern auch Ihren Garten verschönern. Von klassischen Ton-Pflanztöpfen bis hin zu modernen Fiberglass-Töpfen - bei uns finden Sie garantiert den passenden Topf für Ihre Pflanzen."
+                    },
+                    {
+                        "title": "Pflanzentöpfe außen",
+                        "text": "Suchen Sie nach den perfekten Pflanzentöpfen für Ihren Außenbereich? Dann sind Sie bei grünedeko.de genau richtig. Wir bieten eine große Auswahl an robusten und langlebigen Pflanzentöpfen für den Außenbereich, die Ihren Pflanzen Schutz und Stabilität bieten. Entdecken Sie jetzt unsere Auswahl an hochwertigen Pflanzentöpfen für Ihren Garten, Terrasse oder Balkon."
+                    },
+                    {
+                        "title": "Rankhilfen",
+                        "text": "<a href=\"/kategorie/rankhilfen/\" title=\"Rankhilfen\">Rankhilfen</a> sind ein wichtiger Bestandteil der Gartendekoration. Sie ermöglichen es Ihnen, Ihre Pflanzen zu stützen und zu formen, während sie wachsen. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Rankhilfen für alle Arten von Pflanzen, einschließlich Kletterpflanzen und Sträuchern. Wählen Sie aus robusten und stabilen Rankhilfen aus Metall, Holz oder Kunststoff und finden Sie die perfekte Lösung für Ihren Garten. Mit unseren Rankhilfen können Sie Ihre Pflanzen auf kreative und stilvolle Weise präsentieren."
+                    },
+                    {
+                        "title": "Pflanzentöpfe innen",
+                        "text": "Pflanzentöpfe für den Innenbereich sind eine großartige Möglichkeit, Ihr Zuhause mit Pflanzen zu verschönern. Hier bei grünedeko.de bieten wir Ihnen eine große Auswahl an Pflanzentöpfen für innen, einschließlich modernen und zeitlosen Designs. Unsere Pflanzentöpfe sind aus hochwertigen Materialien hergestellt und bieten Ihren Pflanzen eine sichere und geschützte Umgebung. Stöbern Sie durch unsere Kollektion und finden Sie den perfekten Pflanzentopf für Ihr Zuhause. Mit unseren Pflanzentöpfen können Sie Ihren Raum mit Grün und Natur verschönern."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Ihr Shop für Pflanzentöpfe & Gartendekoration",
+            "metaDescription": "Entdecken Sie eine umfangreiche Produktauswahl in unserem Online Shop! Unterschiedliche Pflanzentöpfe | Vogeltränken | Rankhilfen | Blumenregale uvm. ",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Die besten Hersteller für Pflanzentöpfe & Gartendekoration ",
+            "metaDescription": "Bei uns die besten Hersteller für Pflanzentöpfe & Gartendekoration entdecken - Deroma • Elho • OBI • Siena Garden • Florus und viele weitere!",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Ihr Shop für Pflanzentöpfe & Gartendekoration",
-      "metaDescription": "Entdecken Sie eine umfangreiche Produktauswahl in unserem Online Shop! Unterschiedliche Pflanzentöpfe | Vogeltränken | Rankhilfen | Blumenregale uvm. ",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Die besten Hersteller für Pflanzentöpfe & Gartendekoration ",
-      "metaDescription": "Bei uns die besten Hersteller für Pflanzentöpfe & Gartendekoration entdecken - Deroma • Elho • OBI • Siena Garden • Florus und viele weitere!",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - [günstig shoppen]",
-    "defaultMetaDescription": "$PRODUKT vom top Anbieter $HERSTELLER. Das und viele weitere tolle Produkte in der Kategorie $KATEGORIE entdecken und den Garten verschönern!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "3249935",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - [günstig shoppen]",
+        "defaultMetaDescription": "$PRODUKT vom top Anbieter $HERSTELLER. Das und viele weitere tolle Produkte in der Kategorie $KATEGORIE entdecken und den Garten verschönern!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta",
-              "text": "<p class=\"justify\">Erfreuen Sie sich an einem attraktiven und zeitlosen Design für Ihre Pflanzen mit dem M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta (SKU: 3249935). Diese Pflanzgefäße sind sowohl stilvoll als auch funktional und eignen sich perfekt für den Außenbereich. Hergestellt von der renommierten Marke M Collections, die bekannt dafür ist, qualitativ hochwertige und stilvolle Gartenprodukte zu kreieren, können Sie sicher sein, dass dieses Pflanzgefäß sowohl in funktioneller als auch in ästhetischer Hinsicht überzeugt.</p><p class=\"justify\">Das M Collections Pflanzgefäß Coni besteht aus robustem Terrakotta-Material, das UV- und witterungsbeständig ist, sodass Ihr Pflanzgefäß langfristig gut aussieht und die Pflanzen optimal schützt. Die Eigenschaften des Terrakottas sorgen für eine hohe Beständigkeit gegen äußere Einflüsse wie Temperaturschwankungen, Feuchtigkeit oder direkte Sonneneinstrahlung. Das Bodenloch des Pflanzgefäßes ermöglicht zudem den Ablauf von überschüssigem Gießwasser und verhindert so Staunässe, die den Wurzeln Ihrer Pflanzen schaden könnte.</p><p class=\"justify\">Das klassische Design des M Collections Pflanzgefäß Coni in der Farbe Terrakotta lässt sich leicht in jeden Garten oder Außenbereich integrieren und bietet einen ansprechenden Akzent, der sowohl dekorativ als auch funktionell ist. Mit einer Größe von Ø 26 cm bietet dieses Pflanzgefäß genügend Platz für eine Vielzahl von Pflanzen und ist somit perfekt für den Einsatz im heimischen Garten oder auf der Terrasse geeignet.</p><p class=\"justify\">Es ist kein Zufall, dass dieses Pflanzgefäß von M Collections hervorragende Bewertungen und 5 Sterne bei der Kundenbewertung bekommen hat. Genießen Sie ein stilvolles und langlebiges Pflanzgefäß, das Ihrem Außenbereich einen Hauch von Eleganz verleiht. Wählen Sie das M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta und lassen Sie Ihre Pflanzen in einem ansprechenden und funktionalen Umfeld gedeihen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4291605",
-        "seo": {
-          "texts": [
-            {
-              "title": "Blumenregal 122 cm x 31 cm x 60 cm: Eine stilvolle Gartendekoration",
-              "text": "<p class=\"justify\">Das Sonstige Blumenregal mit den Maßen 122 cm x 31 cm x 60 cm ist die ideale Ergänzung für Ihren Garten, Balkon oder Terrasse. Es bietet eine stilvolle und praktische Möglichkeit, Ihre Zierpflanzen oder Küchenkräuter auf verschiedenen Ebenen zu präsentieren. Ebenso kann es auch in Innenbereichen aufgestellt werden, um eine ansprechende, natürliche Dekoration zu schaffen.</p><p class=\"justify\">Das handgearbeitete Blumenregal verfügt über ein verziertes Gestell aus Metall, das nicht nur stabil, sondern auch äußerst dekorativ ist. Die drei herausnehmbaren Einlegeböden aus Holz in unterschiedlichen Tiefen bieten ausreichend Platz und eignen sich perfekt für diverse Pflanzen. Dieses Blumenregal ist auch hervorragend geeignet, um Kräuter oder kleinere Pflanzen in angemessener Höhe zu platzieren und somit leicht zu pflegen.</p><p class=\"justify\">Ein besonderer Vorteil des Blumenregals ist die Möglichkeit, es platzsparend zusammenzuklappen, wenn es gerade nicht gebraucht wird. Mit einer Höhe von 122 cm, einer Breite von 31 cm und einer maximalen Tiefe von 60 cm passt es perfekt in jeden Raum und lässt sich leicht verstauen.</p><p class=\"justify\">Mit 5 Sternen und 331 Bewertungen überzeugt das Sonstige Blumenregal 122 cm x 31 cm x 60 cm seine Nutzer durch Qualität und Design. Machen Sie Ihren Wohnbereich noch gemütlicher oder verleihen Sie Ihrem Garten oder Balkon ein besonderes Flair mit diesem ansprechenden Blumenregal. Es ist ein stilvolles und nützliches Accessoire, das Ihnen lange Freude bereiten wird und Ihre Pflanzen optimal zur Geltung bringt.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8698961",
-        "seo": {
-          "texts": [
-            {
-              "title": "Hängeampel Makramee Ø 20 cm x 100 cm Weiß - Ein stilvolles Accessoire für Ihre Pflanzen",
-              "text": "<p class=\"justify\">Verleihen Sie Ihren Pflanzen das gewisse Etwas mit der wunderschönen handgefertigten Hängeampel Makramee von Sonstige. Mit einem Durchmesser von 20 cm und einer Länge von 100 cm ist diese Hängeampel genau das richtige Zubehör für Ihre Pflanzentöpfe. Das weiße Makramee-Design verleiht jeder Pflanze einen zeitlosen und eleganten Look, der in jede Umgebung passt.</p><p class=\"justify\">Die Hängeampel Makramee eignet sich hervorragend für Keramikübertöpfe mit den Maßen 20 cm x 17 cm und hat eine Tragfähigkeit von 3 kg (ohne Topf). Somit können Sie auch schwerere Pflanzen problemlos aufhängen. Das hochwertige Material und die sorgfältige Verarbeitung sorgen dafür, dass die Hängeampel lange hält und Ihre Pflanzen sicher präsentiert.</p><p class=\"justify\">Das stilvolle Accessoire ist vielseitig einsetzbar und kann in verschiedenen Räumen wie Wohnzimmer, Schlafzimmer oder auf dem Balkon platziert werden. Die Kombination aus Makramee und Pflanzen verleiht jedem Raum eine natürliche, entspannte Atmosphäre. Die Hängeampel kann sowohl zur Dekoration von Innenräumen als auch im Außenbereich verwendet werden.</p><p class=\"justify\">Zusätzlich erfreut die Hängeampel Makramee mit einer hohen Bewertungsklasse von 5 Sternen bei insgesamt 81 Bewertungen. Dieses fantastische Produkt ist übrigens für nur 4,99 Euro erhältlich und bietet somit ein ausgezeichnetes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Falls Sie auf der Suche nach dem perfekten Zubehör für Ihre Pflanzentöpfe sind, ist die Hängeampel Makramee Ø 20 cm x 100 cm Weiß von Sonstige genau das Richtige für Sie. Holen Sie sich dieses stilvolle und handgefertigte Accessoire und geben Sie Ihren Pflanzen den einzigartigen Look, den sie verdienen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9345562",
-        "seo": {
-          "texts": [
-            {
-              "title": "Elho Pflanztopf Vivo 88 cm x 39 cm x 41 cm Living Schwarz Matt mit Rollen",
-              "text": "<p class=\"justify\">Der Elho Pflanztopf Vivo ist ein moderner und stilvoller Pflanzkasten, der sich perfekt für den Außenbereich eignet. Mit seinen Maßen von 88 cm x 39 cm x 41 cm bietet dieser Pflanztopf ausreichend Platz für eine Vielzahl von Pflanzen und eignet sich damit hervorragend zur Gestaltung von Terrassen, Balkons oder Gärten. Die matte Oberfläche in Living Schwarz verleiht dem Pflanzgefäß eine zeitgemäße Ästhetik, die sich harmonisch in nahezu jedes Ambiente einfügt.</p><p class=\"justify\">Besonders praktisch sind die unsichtbaren Rollen an der Unterseite des Elho Pflanztopfes Vivo, die das Verschieben und Umpositionieren des Blumenkastens erleichtern. So können Sie jederzeit spontan neue Arrangements kreieren und Ihren Außenbereich immer wieder neu gestalten. Der Pflanztopf aus Kunststoff besticht zudem durch sein modernes und geradliniges Design im Industrial Style und wird garantiert zum Hingucker in jedem Außenbereich.</p><p class=\"justify\">Neben seinem ansprechenden Äußeren punktet der Elho Pflanztopf Vivo auch mit seiner Nachhaltigkeit: Hergestellt aus recyceltem Kunststoff und produziert mit selbst erzeugter Windenergie, ist dieses Pflanzgefäß eine umweltfreundliche und zugleich pflegeleichte Wahl. Der robuste und leichte Kunststoff ist unzerbrechlich, einfach zu reinigen und hält das ganze Jahr über Form und Farbe - selbst bei Witterungseinflüssen, UV-Strahlung und Frost. Mit dem Elho Pflanztopf Vivo erwerben Sie ein hochwertiges, funktionales und nachhaltiges Produkt, das nicht nur Ihren Pflanzen eine attraktive Umgebung bietet, sondern auch Ihr Zuhause verschönert.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4381224",
-        "seo": {
-          "texts": [
-            {
-              "title": "Pflanzkasten Calais 23 cm x 69 cm x 22 cm Anthrazit",
-              "text": "<p class=\"justify\">Der Pflanzkasten Calais der Marke Sonstige ist ein äußerst ansprechendes Accessoire für Ihren Außenbereich. Mit den Maßen 23 cm x 69 cm x 22 cm ist er ideal für Anpflanzungen im Garten, auf dem Balkon oder der Terrasse geeignet. Die raue und matte Oberflächenstruktur verleiht dem Pflanzkasten eine edle und moderne Optik. In der Farbe Anthrazit fügt er sich harmonisch in verschiedene Gartengestaltungen ein und setzt mit seiner leichten Stein-Optik attraktive Akzente.</p><p class=\"justify\">Der Pflanzkasten Calais ist aus dem hochwertigen und pflegeleichten Material Fibreclay gefertigt. Dieses besitzt ein geringes Gewicht, was das einfache Umstellen und Platzieren des Pflanzkastens ermöglicht. Zudem ist Fibreclay UV- und frostbeständig sowie nicht entflammbar, was für Langlebigkeit und Sicherheit sorgt. Der Pflanzkasten ist zudem mit einem praktischen Bodenloch ausgestattet, das überschüssiges Gießwasser ablaufen lässt und somit Staunässe verhindert. Dadurch wird die Gesundheit Ihrer Pflanzen bestmöglich erhalten und sie können optimal gedeihen.</p><p class=\"justify\">Mit dem Pflanzkasten Calais können Sie nicht nur bequem verschiedene Pflanzen anbauen, sondern auch Ihrem Garten oder Ihrer Terrasse ein stimmiges und einladendes Ambiente verleihen. Ob für prachtvolle Blumen, Küchenkräuter oder dekorative Ziergräser – der Pflanzkasten Calais ist für verschiedenste Pflanzenarten geeignet und bietet ihnen den notwendigen Raum, um sich optimal zu entfalten. Gestalten Sie Ihren Außenbereich noch schöner und persönlicher mit dem Pflanzkasten Calais in Anthrazit.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7830607",
-        "seo": {
-          "texts": [
-            {
-              "title": "Pflanzgefäß Rodez 50 cm x 50 cm x 50 cm Dunkelgrau: Stilvolle Pflanzmöglichkeit",
-              "text": "<p class=\"justify\">Das Pflanzgefäß Rodez mit den Maßen 50 cm x 50 cm x 50 cm (H x B x T) in Dunkelgrau ist eine stilvolle und moderne Möglichkeit, Ihre Pflanzen sowohl im Innen- als auch im Außenbereich zur Geltung zu bringen. Die Marke Sonstige zeigt hier ein vielseitiges und ansprechendes Produkt aus der Kategorie Pflanzentöpfe außen. Mit dieser dunkelgrauen Variante setzen Sie gekonnt Akzente und verleihen Ihrem Zuhause oder Garten das gewisse Etwas.</p><p class=\"justify\">Das Pflanzgefäß Rodez begeistert durch seine eckige Form und strukturierte Oberfläche, die es zum Hingucker in jedem Raum macht. Es ist perfekt geeignet für Blumen, Sträucher und Kräuter und kann sowohl auf Ihrem Balkon, Ihrer Terrasse oder im Eingangsbereich platziert werden. Auch in Ihren eigenen vier Wänden kann das Pflanzgefäß unter Verwendung eines Untersetzers problemlos aufgestellt werden.</p><p class=\"justify\">Qualitativ überzeugt das Pflanzgefäß durch die Herstellung aus pflegeleichtem Fibreclay. Dieses Material zeichnet sich durch seine witterungs- und frostbeständigen Eigenschaften bis zu -10 °C aus. Um eine optimale Haltbarkeit zu gewährleisten, ist darauf zu achten, dass keine Staunässe im Topf entsteht. Dank des integrierten Bodenlochs kann überschüssiges Wasser problemlos abfließen.</p><p class=\"justify\">Mit dem Pflanzgefäß Rodez 50 cm x 50 cm x 50 cm Dunkelgrau verschönern Sie Ihren Wohn- und Gartenbereich und geben Ihren Pflanzen den Raum, den sie verdienen. Lassen Sie Ihrer Kreativität freien Lauf und gestalten Sie mit diesem Pflanzgefäß individuelle Pflanzenarrangements, die Ihren persönlichen Stil widerspiegeln.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4444345",
-        "seo": {
-          "texts": [
-            {
-              "title": "Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit",
-              "text": "<p class=\"justify\">Der Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit (sku: 4444345) bietet eine stilvolle und praktische Lösung für Ihre Balkonbepflanzung. Florus ist eine renommierte Marke, die für hochwertige Gartenprodukte bekannt ist, und dieses Produkt ist keine Ausnahme. Die Kategorie Pflanzentöpfe außen enthält eine Fülle von Optionen, um Ihren Outdoor-Bereich zu verschönern, und dieser Blumenkasten ist ein hervorragendes Beispiel dafür.</p><p class=\"justify\">Eine der herausragenden Eigenschaften dieses Blumenkastens ist das integrierte Bewässerungssystem. Dieses intelligente System erleichtert die Pflege Ihrer Pflanzen, indem es das Gießen vereinfacht und sicherstellt, dass Ihre Pflanzen stets optimal mit Wasser versorgt sind. Das innovative Überlaufsystem verhindert zudem, dass zu viel Wasser im Kasten steht und Schäden wie Wurzelfäule an den Pflanzen verursacht. Dank des integrierten Wasserstandsanzeigers können Sie jederzeit auf einen Blick sehen, ob Ihre Pflanzen noch ausreichend Wasser haben oder ob es Zeit zum Gießen ist.</p><p class=\"justify\">Der Florus Blumenkasten Mediterran ist aus robustem und langlebigem Material gefertigt, um Ihnen jahrelange Freude an Ihren Pflanzen zu bereiten. Die anthrazitfarbene Oberfläche verleiht dem Kasten eine zeitlose Eleganz, die perfekt zu jeder Umgebung passt. Dieser 60 cm lange Blumenkasten bietet ausreichend Platz, um mehrere Pflanzen gleichzeitig unterzubringen, was Ihnen großartige Gestaltungsmöglichkeiten eröffnet. Das einfache und sichere Hakensystem sorgt dafür, dass der Kasten stabil an Ihrem Balkon befestigt wird und den Witterungsbedingungen standhält.</p><p class=\"justify\">Mit einem ausgezeichneten Preis-Leistungs-Verhältnis und hervorragenden Bewertungen ist der Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit ein Muss für jeden, der seinen Balkon mit einer stilvollen und pflegeleichten Pflanzlösung verschönern möchte. Holen Sie sich noch heute dieses praktische und schicke Produkt, um Ihren Outdoor-Bereich zum Blühen zu bringen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3960168",
-        "seo": {
-          "texts": [
-            {
-              "title": "Florus Geländertopf-Set Paris 50 anthrazit - Pflanzentöpfe für den Außenbereich",
-              "text": "<p class=\"justify\">Das Florus Geländertopf-Set Paris 50 anthrazit ist eine hochwertige und stilvolle Lösung für die Bepflanzung Ihres Außenbereichs. Diese Pflanzentöpfe sind aus einem widerstandsfähigen Material gefertigt, das für eine lange Lebensdauer sorgt. Mit ihrem zeitlosen Design passen sie zu jeder Gartengestaltung und eignen sich besonders für den Einsatz auf Balkonen und Terrassen.</p><p class=\"justify\">Eines der wichtigsten Merkmale dieses Florus Geländertopf-Sets ist das integrierte Drainagesystem, das verhindert, dass die Pflanzen zu nass werden und vor Wurzelfäule geschützt sind. Durch die beiden Öffnungen im unteren Bereich des Balkonkastens ist ein einfaches Gießen der Pflanzen möglich. Das Set enthält neben den Pflanzentöpfen auch ein Metallgestell für die einfache Befestigung am Geländer, das für Geländerbreiten von 1 cm bis 6 cm geeignet ist.</p><p class=\"justify\">Die anthrazitfarbenen Florus Geländertöpfe sind in einer Größe von 50 cm erhältlich und bieten ausreichend Platz für diverse Pflanzenarten. So geben Sie Ihrem Outdoor-Bereich eine individuelle Note - ganz nach Ihrem persönlichen Geschmack. Mit einer hohen Anzahl an Kundenbewertungen und einer 5-Sterne-Bewertung ist das Florus Geländertopf-Set Paris 50 anthrazit eine hervorragende Wahl für alle, die ihren Außenbereich mit soliden und ansprechenden Pflanzentöpfen gestalten möchten.</p><p class=\"justify\">Insgesamt ist das Florus Geländertopf-Set Paris 50 anthrazit eine praktische und elegante Ergänzung für jeden Garten, Balkon oder jede Terrasse. Mit seinem zeitlosen Design und den nützlichen Funktionen sorgt es dafür, dass Ihre Pflanzen gesund bleiben und Sie lange Freude an ihnen haben. Zögern Sie nicht, dieses hochwertige Produkt der Marke Florus in Ihre Gestaltung des Außenbereichs einzubeziehen und schaffen Sie sich so eine stilvolle Wohlfühloase im Freien.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6436257",
-        "seo": {
-          "texts": [
-            {
-              "title": "M Collections Pflanztopf Egg Pot Ø 34 cm Grau",
-              "text": "<p class=\"justify\">Erweitern Sie Ihren Gartenbereich mit dem stilvollen M Collections Pflanztopf Egg Pot Ø 34 cm Grau. Dieses Produkt gehört zur Kategorie Pflanzentöpfe außen und bietet eine schöne und praktische Lösung, um Ihre Pflanzen in Szene zu setzen. Der Pflanztopf stammt von der bekannten Marke M Collections und zeichnet sich durch sein attraktives, zeitloses Design aus, das sich nahtlos in jede Umgebung einfügt.</p><p class=\"justify\">Hergestellt aus unempfindlichem Fibreclay, ist dieser Pflanztopf sowohl UV- als auch witterungsbeständig. Das bedeutet, dass er den unterschiedlichen Wetterbedingungen standhält und seine Optik über längere Zeit beibehält. Der M Collections Egg Pot ist in einem eleganten Grauton gehalten, der Ihren Außenbereich aufwertet und zur Geltung der darin befindlichen Pflanzen beiträgt.</p><p class=\"justify\">Eine Besonderheit dieses Pflanztopfes ist das Bodenloch, das überschüssiges Gießwasser abfließen lässt und somit Staunässe an den Wurzeln der Pflanzen verhindert. Bei einer Größe von 34 cm Durchmesser bietet der M Collections Pflanztopf Egg Pot ausreichend Platz für verschiedene Pflanzenarten und kann sowohl als Einzelpflanzgefäß als auch in Kombination mit anderen Töpfen und Dekorationselementen eingesetzt werden.</p><p class=\"justify\">Der M Collections Pflanztopf Egg Pot Ø 34 cm Grau hat eine GTIN13: 8714075940988 und eine SKU: 6436257. Mit einer hohen durchschnittlichen Bewertung von 5 Sternen und über 203 zufriedenen Kundenbewertungen ist dieses Produkt eine hervorragende Wahl für alle, die ihrem Garten oder Außenbereich ein frisches und modernes Aussehen verleihen möchten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7756695",
-        "seo": {
-          "texts": [
-            {
-              "title": "Blumenkasten 80 cm x 80 cm x 30 cm Hellgrau von Sonstige",
-              "text": "<p class=\"justify\">Dieser hochwertige Blumenkasten der Marke Sonstige ist eine stilvolle und praktische Ergänzung für jeden Garten, Balkon oder Terrasse. Mit seinen großzügigen Abmessungen von 80 cm x 80 cm x 30 cm bietet er ausreichend Platz für eine Vielzahl von Pflanzen und Kräutern. Dabei trägt der GTIN13-Code 4048121176804 zur einfachen Identifikation bei. Die Kategorie Pflanzentöpfe außen unterstreicht die vielfältigen Einsatzmöglichkeiten dieses Blumenkastens, der durch sein modernes und zeitloses Design überzeugt.</p><p class=\"justify\">Das Material des Blumenkastens ist leichter und unempfindlicher Fibreclay in der Farbe Hellgrau. Dies macht ihn witterungsbeständig und langlebig und eignet sich daher hervorragend für den Einsatz im Außenbereich. Am Boden des Blumenkastens befindet sich ein Loch, durch das überschüssiges Wasser abfließen kann. Dies verhindert Staunässe und sorgt somit für ein gesundes Wurzelwachstum Ihrer Pflanzen.</p><p class=\"justify\">Durch die Verwendung eines Untersetzers kann dieser Blumenkasten auch problemlos im Innenbereich genutzt werden. Für einen Preis von 79,99 Euro erhalten Sie ein stilvolles und funktionales Pflanzgefäß, das sowohl in der Optik als auch in der Qualität überzeugt. Die hohe Bewertung von 5 Sternen bei 203 Rezensionen spricht für die Zufriedenheit der Kunden mit diesem Produkt. Mit dem Blumenkasten 80 cm x 80 cm x 30 cm Hellgrau von Sonstige verleihen Sie Ihrem Garten oder Ihrer Terrasse das gewisse Etwas und schaffen Raum für beeindruckende Pflanzarrangements.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9585464",
-        "seo": {
-          "texts": [
-            {
-              "title": "Deroma Pflanzkasten Millennium 59 cm x 25 cm x 25 cm Anthrazit",
-              "text": "<p class=\"justify\">Der Deroma Pflanzkasten Millennium 59 cm x 25 cm x 25 cm Anthrazit ist das perfekte Produkt für alle Gartenliebhaber, die auf der Suche nach einer stilvollen und praktischen Lösung für ihre Pflanzen sind. Der Pflanzkasten überzeugt durch sein modernes Design und die ansprechende Natursteinoptik. Die hochwertige Verarbeitung und die robusten Materialien garantieren eine lange Lebensdauer des Pflanzkastens. Die Marke Deroma ist bekannt für ihre Qualität und Zuverlässigkeit, weshalb Kunden auf der ganzen Welt zufrieden sind.</p><p class=\"justify\">Der Pflanzkasten besteht aus leichtem Kunststoff, der UV-beständig und recycelbar ist. Dieser Pflanzkasten ist doppelwandig und besitzt solide Kanten, die für extra Stabilität und Halt sorgen. Des Weiteren verfügt der Pflanzkasten über ein integriertes Wasserreservoir, das eine stetige Wasserversorgung Ihrer Pflanzen gewährleistet. Dank des praktischen Stöpsels am Topfboden kann der Pflanzkasten flexibel im Innen- und Außenbereich eingesetzt werden. So können Sie Ihren Garten, Balkon oder Wohnbereich stilvoll aufwerten.</p><p class=\"justify\">Der anthrazitfarbene Pflanzkasten mit den Maßen 59 cm x 25 cm x 25 cm bietet ausreichend Platz für Ihre Pflanzen. Er ist einfach zu handhaben, leicht zu reinigen und pflegeleicht. Egal, ob Sie Ihren Pflanzkasten mit sommerlichen Blumen oder einheimischen Küchenkräutern bepflanzen möchten - der Pflanzkasten Millennium von Deroma setzt Ihre Pflanzen perfekt in Szene und verleiht Ihrem Zuhause einen ganz besonderen Charme. Profitieren Sie von der Exzellenz des italienischen Herstellers und holen Sie sich dieses stilvolle Accessoire für Ihren Garten oder Wohnbereich noch heute.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE: für Ihren Garten oder Balkon",
-    "defaultMetaDescription": "Finde die perfekte $KATEGORIE für Ihren Außenbereich. Große Auswahl an hochwertigen Produkten zu fairen Preisen. Jetzt online bestellen!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "3249935",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta",
+                            "text": "<p class=\"justify\">Erfreuen Sie sich an einem attraktiven und zeitlosen Design für Ihre Pflanzen mit dem M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta (SKU: 3249935). Diese Pflanzgefäße sind sowohl stilvoll als auch funktional und eignen sich perfekt für den Außenbereich. Hergestellt von der renommierten Marke M Collections, die bekannt dafür ist, qualitativ hochwertige und stilvolle Gartenprodukte zu kreieren, können Sie sicher sein, dass dieses Pflanzgefäß sowohl in funktioneller als auch in ästhetischer Hinsicht überzeugt.</p><p class=\"justify\">Das M Collections Pflanzgefäß Coni besteht aus robustem Terrakotta-Material, das UV- und witterungsbeständig ist, sodass Ihr Pflanzgefäß langfristig gut aussieht und die Pflanzen optimal schützt. Die Eigenschaften des Terrakottas sorgen für eine hohe Beständigkeit gegen äußere Einflüsse wie Temperaturschwankungen, Feuchtigkeit oder direkte Sonneneinstrahlung. Das Bodenloch des Pflanzgefäßes ermöglicht zudem den Ablauf von überschüssigem Gießwasser und verhindert so Staunässe, die den Wurzeln Ihrer Pflanzen schaden könnte.</p><p class=\"justify\">Das klassische Design des M Collections Pflanzgefäß Coni in der Farbe Terrakotta lässt sich leicht in jeden Garten oder Außenbereich integrieren und bietet einen ansprechenden Akzent, der sowohl dekorativ als auch funktionell ist. Mit einer Größe von Ø 26 cm bietet dieses Pflanzgefäß genügend Platz für eine Vielzahl von Pflanzen und ist somit perfekt für den Einsatz im heimischen Garten oder auf der Terrasse geeignet.</p><p class=\"justify\">Es ist kein Zufall, dass dieses Pflanzgefäß von M Collections hervorragende Bewertungen und 5 Sterne bei der Kundenbewertung bekommen hat. Genießen Sie ein stilvolles und langlebiges Pflanzgefäß, das Ihrem Außenbereich einen Hauch von Eleganz verleiht. Wählen Sie das M Collections Pflanzgefäß Coni Ø 26 cm Terrakotta und lassen Sie Ihre Pflanzen in einem ansprechenden und funktionalen Umfeld gedeihen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4291605",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Blumenregal 122 cm x 31 cm x 60 cm: Eine stilvolle Gartendekoration",
+                            "text": "<p class=\"justify\">Das Sonstige Blumenregal mit den Maßen 122 cm x 31 cm x 60 cm ist die ideale Ergänzung für Ihren Garten, Balkon oder Terrasse. Es bietet eine stilvolle und praktische Möglichkeit, Ihre Zierpflanzen oder Küchenkräuter auf verschiedenen Ebenen zu präsentieren. Ebenso kann es auch in Innenbereichen aufgestellt werden, um eine ansprechende, natürliche Dekoration zu schaffen.</p><p class=\"justify\">Das handgearbeitete Blumenregal verfügt über ein verziertes Gestell aus Metall, das nicht nur stabil, sondern auch äußerst dekorativ ist. Die drei herausnehmbaren Einlegeböden aus Holz in unterschiedlichen Tiefen bieten ausreichend Platz und eignen sich perfekt für diverse Pflanzen. Dieses Blumenregal ist auch hervorragend geeignet, um Kräuter oder kleinere Pflanzen in angemessener Höhe zu platzieren und somit leicht zu pflegen.</p><p class=\"justify\">Ein besonderer Vorteil des Blumenregals ist die Möglichkeit, es platzsparend zusammenzuklappen, wenn es gerade nicht gebraucht wird. Mit einer Höhe von 122 cm, einer Breite von 31 cm und einer maximalen Tiefe von 60 cm passt es perfekt in jeden Raum und lässt sich leicht verstauen.</p><p class=\"justify\">Mit 5 Sternen und 331 Bewertungen überzeugt das Sonstige Blumenregal 122 cm x 31 cm x 60 cm seine Nutzer durch Qualität und Design. Machen Sie Ihren Wohnbereich noch gemütlicher oder verleihen Sie Ihrem Garten oder Balkon ein besonderes Flair mit diesem ansprechenden Blumenregal. Es ist ein stilvolles und nützliches Accessoire, das Ihnen lange Freude bereiten wird und Ihre Pflanzen optimal zur Geltung bringt.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8698961",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Hängeampel Makramee Ø 20 cm x 100 cm Weiß - Ein stilvolles Accessoire für Ihre Pflanzen",
+                            "text": "<p class=\"justify\">Verleihen Sie Ihren Pflanzen das gewisse Etwas mit der wunderschönen handgefertigten Hängeampel Makramee von Sonstige. Mit einem Durchmesser von 20 cm und einer Länge von 100 cm ist diese Hängeampel genau das richtige Zubehör für Ihre Pflanzentöpfe. Das weiße Makramee-Design verleiht jeder Pflanze einen zeitlosen und eleganten Look, der in jede Umgebung passt.</p><p class=\"justify\">Die Hängeampel Makramee eignet sich hervorragend für Keramikübertöpfe mit den Maßen 20 cm x 17 cm und hat eine Tragfähigkeit von 3 kg (ohne Topf). Somit können Sie auch schwerere Pflanzen problemlos aufhängen. Das hochwertige Material und die sorgfältige Verarbeitung sorgen dafür, dass die Hängeampel lange hält und Ihre Pflanzen sicher präsentiert.</p><p class=\"justify\">Das stilvolle Accessoire ist vielseitig einsetzbar und kann in verschiedenen Räumen wie Wohnzimmer, Schlafzimmer oder auf dem Balkon platziert werden. Die Kombination aus Makramee und Pflanzen verleiht jedem Raum eine natürliche, entspannte Atmosphäre. Die Hängeampel kann sowohl zur Dekoration von Innenräumen als auch im Außenbereich verwendet werden.</p><p class=\"justify\">Zusätzlich erfreut die Hängeampel Makramee mit einer hohen Bewertungsklasse von 5 Sternen bei insgesamt 81 Bewertungen. Dieses fantastische Produkt ist übrigens für nur 4,99 Euro erhältlich und bietet somit ein ausgezeichnetes Preis-Leistungs-Verhältnis.</p><p class=\"justify\">Falls Sie auf der Suche nach dem perfekten Zubehör für Ihre Pflanzentöpfe sind, ist die Hängeampel Makramee Ø 20 cm x 100 cm Weiß von Sonstige genau das Richtige für Sie. Holen Sie sich dieses stilvolle und handgefertigte Accessoire und geben Sie Ihren Pflanzen den einzigartigen Look, den sie verdienen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9345562",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Elho Pflanztopf Vivo 88 cm x 39 cm x 41 cm Living Schwarz Matt mit Rollen",
+                            "text": "<p class=\"justify\">Der Elho Pflanztopf Vivo ist ein moderner und stilvoller Pflanzkasten, der sich perfekt für den Außenbereich eignet. Mit seinen Maßen von 88 cm x 39 cm x 41 cm bietet dieser Pflanztopf ausreichend Platz für eine Vielzahl von Pflanzen und eignet sich damit hervorragend zur Gestaltung von Terrassen, Balkons oder Gärten. Die matte Oberfläche in Living Schwarz verleiht dem Pflanzgefäß eine zeitgemäße Ästhetik, die sich harmonisch in nahezu jedes Ambiente einfügt.</p><p class=\"justify\">Besonders praktisch sind die unsichtbaren Rollen an der Unterseite des Elho Pflanztopfes Vivo, die das Verschieben und Umpositionieren des Blumenkastens erleichtern. So können Sie jederzeit spontan neue Arrangements kreieren und Ihren Außenbereich immer wieder neu gestalten. Der Pflanztopf aus Kunststoff besticht zudem durch sein modernes und geradliniges Design im Industrial Style und wird garantiert zum Hingucker in jedem Außenbereich.</p><p class=\"justify\">Neben seinem ansprechenden Äußeren punktet der Elho Pflanztopf Vivo auch mit seiner Nachhaltigkeit: Hergestellt aus recyceltem Kunststoff und produziert mit selbst erzeugter Windenergie, ist dieses Pflanzgefäß eine umweltfreundliche und zugleich pflegeleichte Wahl. Der robuste und leichte Kunststoff ist unzerbrechlich, einfach zu reinigen und hält das ganze Jahr über Form und Farbe - selbst bei Witterungseinflüssen, UV-Strahlung und Frost. Mit dem Elho Pflanztopf Vivo erwerben Sie ein hochwertiges, funktionales und nachhaltiges Produkt, das nicht nur Ihren Pflanzen eine attraktive Umgebung bietet, sondern auch Ihr Zuhause verschönert.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4381224",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Pflanzkasten Calais 23 cm x 69 cm x 22 cm Anthrazit",
+                            "text": "<p class=\"justify\">Der Pflanzkasten Calais der Marke Sonstige ist ein äußerst ansprechendes Accessoire für Ihren Außenbereich. Mit den Maßen 23 cm x 69 cm x 22 cm ist er ideal für Anpflanzungen im Garten, auf dem Balkon oder der Terrasse geeignet. Die raue und matte Oberflächenstruktur verleiht dem Pflanzkasten eine edle und moderne Optik. In der Farbe Anthrazit fügt er sich harmonisch in verschiedene Gartengestaltungen ein und setzt mit seiner leichten Stein-Optik attraktive Akzente.</p><p class=\"justify\">Der Pflanzkasten Calais ist aus dem hochwertigen und pflegeleichten Material Fibreclay gefertigt. Dieses besitzt ein geringes Gewicht, was das einfache Umstellen und Platzieren des Pflanzkastens ermöglicht. Zudem ist Fibreclay UV- und frostbeständig sowie nicht entflammbar, was für Langlebigkeit und Sicherheit sorgt. Der Pflanzkasten ist zudem mit einem praktischen Bodenloch ausgestattet, das überschüssiges Gießwasser ablaufen lässt und somit Staunässe verhindert. Dadurch wird die Gesundheit Ihrer Pflanzen bestmöglich erhalten und sie können optimal gedeihen.</p><p class=\"justify\">Mit dem Pflanzkasten Calais können Sie nicht nur bequem verschiedene Pflanzen anbauen, sondern auch Ihrem Garten oder Ihrer Terrasse ein stimmiges und einladendes Ambiente verleihen. Ob für prachtvolle Blumen, Küchenkräuter oder dekorative Ziergräser – der Pflanzkasten Calais ist für verschiedenste Pflanzenarten geeignet und bietet ihnen den notwendigen Raum, um sich optimal zu entfalten. Gestalten Sie Ihren Außenbereich noch schöner und persönlicher mit dem Pflanzkasten Calais in Anthrazit.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7830607",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Pflanzgefäß Rodez 50 cm x 50 cm x 50 cm Dunkelgrau: Stilvolle Pflanzmöglichkeit",
+                            "text": "<p class=\"justify\">Das Pflanzgefäß Rodez mit den Maßen 50 cm x 50 cm x 50 cm (H x B x T) in Dunkelgrau ist eine stilvolle und moderne Möglichkeit, Ihre Pflanzen sowohl im Innen- als auch im Außenbereich zur Geltung zu bringen. Die Marke Sonstige zeigt hier ein vielseitiges und ansprechendes Produkt aus der Kategorie Pflanzentöpfe außen. Mit dieser dunkelgrauen Variante setzen Sie gekonnt Akzente und verleihen Ihrem Zuhause oder Garten das gewisse Etwas.</p><p class=\"justify\">Das Pflanzgefäß Rodez begeistert durch seine eckige Form und strukturierte Oberfläche, die es zum Hingucker in jedem Raum macht. Es ist perfekt geeignet für Blumen, Sträucher und Kräuter und kann sowohl auf Ihrem Balkon, Ihrer Terrasse oder im Eingangsbereich platziert werden. Auch in Ihren eigenen vier Wänden kann das Pflanzgefäß unter Verwendung eines Untersetzers problemlos aufgestellt werden.</p><p class=\"justify\">Qualitativ überzeugt das Pflanzgefäß durch die Herstellung aus pflegeleichtem Fibreclay. Dieses Material zeichnet sich durch seine witterungs- und frostbeständigen Eigenschaften bis zu -10 °C aus. Um eine optimale Haltbarkeit zu gewährleisten, ist darauf zu achten, dass keine Staunässe im Topf entsteht. Dank des integrierten Bodenlochs kann überschüssiges Wasser problemlos abfließen.</p><p class=\"justify\">Mit dem Pflanzgefäß Rodez 50 cm x 50 cm x 50 cm Dunkelgrau verschönern Sie Ihren Wohn- und Gartenbereich und geben Ihren Pflanzen den Raum, den sie verdienen. Lassen Sie Ihrer Kreativität freien Lauf und gestalten Sie mit diesem Pflanzgefäß individuelle Pflanzenarrangements, die Ihren persönlichen Stil widerspiegeln.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4444345",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit",
+                            "text": "<p class=\"justify\">Der Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit (sku: 4444345) bietet eine stilvolle und praktische Lösung für Ihre Balkonbepflanzung. Florus ist eine renommierte Marke, die für hochwertige Gartenprodukte bekannt ist, und dieses Produkt ist keine Ausnahme. Die Kategorie Pflanzentöpfe außen enthält eine Fülle von Optionen, um Ihren Outdoor-Bereich zu verschönern, und dieser Blumenkasten ist ein hervorragendes Beispiel dafür.</p><p class=\"justify\">Eine der herausragenden Eigenschaften dieses Blumenkastens ist das integrierte Bewässerungssystem. Dieses intelligente System erleichtert die Pflege Ihrer Pflanzen, indem es das Gießen vereinfacht und sicherstellt, dass Ihre Pflanzen stets optimal mit Wasser versorgt sind. Das innovative Überlaufsystem verhindert zudem, dass zu viel Wasser im Kasten steht und Schäden wie Wurzelfäule an den Pflanzen verursacht. Dank des integrierten Wasserstandsanzeigers können Sie jederzeit auf einen Blick sehen, ob Ihre Pflanzen noch ausreichend Wasser haben oder ob es Zeit zum Gießen ist.</p><p class=\"justify\">Der Florus Blumenkasten Mediterran ist aus robustem und langlebigem Material gefertigt, um Ihnen jahrelange Freude an Ihren Pflanzen zu bereiten. Die anthrazitfarbene Oberfläche verleiht dem Kasten eine zeitlose Eleganz, die perfekt zu jeder Umgebung passt. Dieser 60 cm lange Blumenkasten bietet ausreichend Platz, um mehrere Pflanzen gleichzeitig unterzubringen, was Ihnen großartige Gestaltungsmöglichkeiten eröffnet. Das einfache und sichere Hakensystem sorgt dafür, dass der Kasten stabil an Ihrem Balkon befestigt wird und den Witterungsbedingungen standhält.</p><p class=\"justify\">Mit einem ausgezeichneten Preis-Leistungs-Verhältnis und hervorragenden Bewertungen ist der Florus Blumenkasten Mediterran mit Bewässerungssystem 60 cm anthrazit ein Muss für jeden, der seinen Balkon mit einer stilvollen und pflegeleichten Pflanzlösung verschönern möchte. Holen Sie sich noch heute dieses praktische und schicke Produkt, um Ihren Outdoor-Bereich zum Blühen zu bringen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3960168",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Florus Geländertopf-Set Paris 50 anthrazit - Pflanzentöpfe für den Außenbereich",
+                            "text": "<p class=\"justify\">Das Florus Geländertopf-Set Paris 50 anthrazit ist eine hochwertige und stilvolle Lösung für die Bepflanzung Ihres Außenbereichs. Diese Pflanzentöpfe sind aus einem widerstandsfähigen Material gefertigt, das für eine lange Lebensdauer sorgt. Mit ihrem zeitlosen Design passen sie zu jeder Gartengestaltung und eignen sich besonders für den Einsatz auf Balkonen und Terrassen.</p><p class=\"justify\">Eines der wichtigsten Merkmale dieses Florus Geländertopf-Sets ist das integrierte Drainagesystem, das verhindert, dass die Pflanzen zu nass werden und vor Wurzelfäule geschützt sind. Durch die beiden Öffnungen im unteren Bereich des Balkonkastens ist ein einfaches Gießen der Pflanzen möglich. Das Set enthält neben den Pflanzentöpfen auch ein Metallgestell für die einfache Befestigung am Geländer, das für Geländerbreiten von 1 cm bis 6 cm geeignet ist.</p><p class=\"justify\">Die anthrazitfarbenen Florus Geländertöpfe sind in einer Größe von 50 cm erhältlich und bieten ausreichend Platz für diverse Pflanzenarten. So geben Sie Ihrem Outdoor-Bereich eine individuelle Note - ganz nach Ihrem persönlichen Geschmack. Mit einer hohen Anzahl an Kundenbewertungen und einer 5-Sterne-Bewertung ist das Florus Geländertopf-Set Paris 50 anthrazit eine hervorragende Wahl für alle, die ihren Außenbereich mit soliden und ansprechenden Pflanzentöpfen gestalten möchten.</p><p class=\"justify\">Insgesamt ist das Florus Geländertopf-Set Paris 50 anthrazit eine praktische und elegante Ergänzung für jeden Garten, Balkon oder jede Terrasse. Mit seinem zeitlosen Design und den nützlichen Funktionen sorgt es dafür, dass Ihre Pflanzen gesund bleiben und Sie lange Freude an ihnen haben. Zögern Sie nicht, dieses hochwertige Produkt der Marke Florus in Ihre Gestaltung des Außenbereichs einzubeziehen und schaffen Sie sich so eine stilvolle Wohlfühloase im Freien.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6436257",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "M Collections Pflanztopf Egg Pot Ø 34 cm Grau",
+                            "text": "<p class=\"justify\">Erweitern Sie Ihren Gartenbereich mit dem stilvollen M Collections Pflanztopf Egg Pot Ø 34 cm Grau. Dieses Produkt gehört zur Kategorie Pflanzentöpfe außen und bietet eine schöne und praktische Lösung, um Ihre Pflanzen in Szene zu setzen. Der Pflanztopf stammt von der bekannten Marke M Collections und zeichnet sich durch sein attraktives, zeitloses Design aus, das sich nahtlos in jede Umgebung einfügt.</p><p class=\"justify\">Hergestellt aus unempfindlichem Fibreclay, ist dieser Pflanztopf sowohl UV- als auch witterungsbeständig. Das bedeutet, dass er den unterschiedlichen Wetterbedingungen standhält und seine Optik über längere Zeit beibehält. Der M Collections Egg Pot ist in einem eleganten Grauton gehalten, der Ihren Außenbereich aufwertet und zur Geltung der darin befindlichen Pflanzen beiträgt.</p><p class=\"justify\">Eine Besonderheit dieses Pflanztopfes ist das Bodenloch, das überschüssiges Gießwasser abfließen lässt und somit Staunässe an den Wurzeln der Pflanzen verhindert. Bei einer Größe von 34 cm Durchmesser bietet der M Collections Pflanztopf Egg Pot ausreichend Platz für verschiedene Pflanzenarten und kann sowohl als Einzelpflanzgefäß als auch in Kombination mit anderen Töpfen und Dekorationselementen eingesetzt werden.</p><p class=\"justify\">Der M Collections Pflanztopf Egg Pot Ø 34 cm Grau hat eine GTIN13: 8714075940988 und eine SKU: 6436257. Mit einer hohen durchschnittlichen Bewertung von 5 Sternen und über 203 zufriedenen Kundenbewertungen ist dieses Produkt eine hervorragende Wahl für alle, die ihrem Garten oder Außenbereich ein frisches und modernes Aussehen verleihen möchten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7756695",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Blumenkasten 80 cm x 80 cm x 30 cm Hellgrau von Sonstige",
+                            "text": "<p class=\"justify\">Dieser hochwertige Blumenkasten der Marke Sonstige ist eine stilvolle und praktische Ergänzung für jeden Garten, Balkon oder Terrasse. Mit seinen großzügigen Abmessungen von 80 cm x 80 cm x 30 cm bietet er ausreichend Platz für eine Vielzahl von Pflanzen und Kräutern. Dabei trägt der GTIN13-Code 4048121176804 zur einfachen Identifikation bei. Die Kategorie Pflanzentöpfe außen unterstreicht die vielfältigen Einsatzmöglichkeiten dieses Blumenkastens, der durch sein modernes und zeitloses Design überzeugt.</p><p class=\"justify\">Das Material des Blumenkastens ist leichter und unempfindlicher Fibreclay in der Farbe Hellgrau. Dies macht ihn witterungsbeständig und langlebig und eignet sich daher hervorragend für den Einsatz im Außenbereich. Am Boden des Blumenkastens befindet sich ein Loch, durch das überschüssiges Wasser abfließen kann. Dies verhindert Staunässe und sorgt somit für ein gesundes Wurzelwachstum Ihrer Pflanzen.</p><p class=\"justify\">Durch die Verwendung eines Untersetzers kann dieser Blumenkasten auch problemlos im Innenbereich genutzt werden. Für einen Preis von 79,99 Euro erhalten Sie ein stilvolles und funktionales Pflanzgefäß, das sowohl in der Optik als auch in der Qualität überzeugt. Die hohe Bewertung von 5 Sternen bei 203 Rezensionen spricht für die Zufriedenheit der Kunden mit diesem Produkt. Mit dem Blumenkasten 80 cm x 80 cm x 30 cm Hellgrau von Sonstige verleihen Sie Ihrem Garten oder Ihrer Terrasse das gewisse Etwas und schaffen Raum für beeindruckende Pflanzarrangements.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9585464",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Deroma Pflanzkasten Millennium 59 cm x 25 cm x 25 cm Anthrazit",
+                            "text": "<p class=\"justify\">Der Deroma Pflanzkasten Millennium 59 cm x 25 cm x 25 cm Anthrazit ist das perfekte Produkt für alle Gartenliebhaber, die auf der Suche nach einer stilvollen und praktischen Lösung für ihre Pflanzen sind. Der Pflanzkasten überzeugt durch sein modernes Design und die ansprechende Natursteinoptik. Die hochwertige Verarbeitung und die robusten Materialien garantieren eine lange Lebensdauer des Pflanzkastens. Die Marke Deroma ist bekannt für ihre Qualität und Zuverlässigkeit, weshalb Kunden auf der ganzen Welt zufrieden sind.</p><p class=\"justify\">Der Pflanzkasten besteht aus leichtem Kunststoff, der UV-beständig und recycelbar ist. Dieser Pflanzkasten ist doppelwandig und besitzt solide Kanten, die für extra Stabilität und Halt sorgen. Des Weiteren verfügt der Pflanzkasten über ein integriertes Wasserreservoir, das eine stetige Wasserversorgung Ihrer Pflanzen gewährleistet. Dank des praktischen Stöpsels am Topfboden kann der Pflanzkasten flexibel im Innen- und Außenbereich eingesetzt werden. So können Sie Ihren Garten, Balkon oder Wohnbereich stilvoll aufwerten.</p><p class=\"justify\">Der anthrazitfarbene Pflanzkasten mit den Maßen 59 cm x 25 cm x 25 cm bietet ausreichend Platz für Ihre Pflanzen. Er ist einfach zu handhaben, leicht zu reinigen und pflegeleicht. Egal, ob Sie Ihren Pflanzkasten mit sommerlichen Blumen oder einheimischen Küchenkräutern bepflanzen möchten - der Pflanzkasten Millennium von Deroma setzt Ihre Pflanzen perfekt in Szene und verleiht Ihrem Zuhause einen ganz besonderen Charme. Profitieren Sie von der Exzellenz des italienischen Herstellers und holen Sie sich dieses stilvolle Accessoire für Ihren Garten oder Wohnbereich noch heute.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE: für Ihren Garten oder Balkon",
+        "defaultMetaDescription": "Finde die perfekte $KATEGORIE für Ihren Außenbereich. Große Auswahl an hochwertigen Produkten zu fairen Preisen. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Pflanzen und Deko von $HERSTELLER",
+        "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration von renommierten Herstellern wie $HERSTELLER - Jetzt online bestellen und per Mausklick zu Ihnen nach Hause liefern lassen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Pflanzentöpfe & Gartendekoration",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Pflanzentöpfe & Gartendekoration Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Pflanzentöpfe & Gartendekoration Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Pflanzen und Deko von $HERSTELLER",
-    "defaultMetaDescription": "Pflanzentöpfe & Gartendekoration von renommierten Herstellern wie $HERSTELLER - Jetzt online bestellen und per Mausklick zu Ihnen nach Hause liefern lassen!",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Pflanzentöpfe & Gartendekoration",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Pflanzentöpfe & Gartendekoration Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Pflanzentöpfe & Gartendekoration Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
